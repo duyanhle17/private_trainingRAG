@@ -1,0 +1,8 @@
+{
+  "created_at": "2026-01-29T01:01:49.526288",
+  "embedding_model": "intfloat/multilingual-e5-base",
+  "num_chunks": 1267,
+  "kg_nodes": 1261,
+  "kg_edges": 4426,
+  "build_mode": "NO_LLM"
+}

@@ -1,8 +1,24 @@
 {
-  "created_at": "2026-01-29T01:01:49.526288",
+  "created_at": "2026-01-31T23:50:49.018259",
   "embedding_model": "intfloat/multilingual-e5-base",
-  "num_chunks": 1267,
-  "kg_nodes": 1261,
-  "kg_edges": 4426,
-  "build_mode": "NO_LLM"
+  "num_chunks": 3488,
+  "kg_nodes": 4724,
+  "kg_edges": 18778,
+  "build_mode": "NO_LLM",
+  "source_files": [
+    "thongtu80.json",
+    "thongtu78.json",
+    "nghidinh123.json",
+    "nghidinh125.json",
+    "GTGT2008.json",
+    "QLT2019.json"
+  ],
+  "passages_per_file": {
+    "thongtu80.json": 1244,
+    "thongtu78.json": 110,
+    "nghidinh123.json": 493,
+    "nghidinh125.json": 432,
+    "GTGT2008.json": 97,
+    "QLT2019.json": 1060
+  }
 }

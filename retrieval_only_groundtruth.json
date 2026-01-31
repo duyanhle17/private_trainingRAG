@@ -1,0 +1,269 @@
+{
+  "meta": {
+    "name": "retrieval_only_groundtruth",
+    "created_at": "2026-01-24T13:48:24.379066",
+    "doc_registry": {
+      "QLT": {
+        "filename": "Luật_quản_lý_thuế_2019_số_382019QH14_áp_dụng_năm_2025.json"
+      },
+      "VAT": {
+        "filename": "Luật_thuế_giá_trị_gia_tăng_2008_số_132008QH12_áp_dụng_2024.json"
+      },
+      "ND123": {
+        "filename": "Nghị_định_1232020NĐ-CP_quy_định_hóa_đơn_chứng_từ.json"
+      },
+      "ND125": {
+        "filename": "Nghị_định_1252020NĐ-CP_xử_phạt_vi_phạm_hành_chính_về_thuế_hóa_đơn.json"
+      },
+      "TT78": {
+        "filename": "Thông_tư_782021TT-BTC_hướng_dẫn_Luật_Quản_lý_thuế_Nghị_định_1232020NĐ-CP_hóa_đơn_chứng_từ.json"
+      },
+      "TT80": {
+        "filename": "Thông_tư_802021TT-BTC_hướng_dẫn_Luật_Quản_lý_thuế__Nghị_định_1262020NĐ-CP.json"
+      }
+    },
+    "schema": {
+      "groundtruth": [
+        {
+          "id": "Qxx",
+          "required_chunks": [
+            {
+              "doc_id": "VAT|QLT|ND123|ND125|TT78|TT80",
+              "json_path": "JSONPath",
+              "label": "string",
+              "match": "contains|regex optional"
+            }
+          ]
+        }
+      ]
+    },
+    "notes": "Retrieval-only GT: chỉ chấm việc có retrieve được đúng các chunk cần thiết không. 'match' dùng để validate nhanh nội dung (contains/regex)."
+  },
+  "groundtruth": [
+    {
+      "id": "Q01",
+      "required_chunks": [
+        {
+          "doc_id": "VAT",
+          "json_path": "$.body[0].children[1]",
+          "label": "Luật GTGT 2008 - Điều 2 (định nghĩa thuế GTGT)"
+        }
+      ]
+    },
+    {
+      "id": "Q02",
+      "required_chunks": [
+        {
+          "doc_id": "VAT",
+          "json_path": "$.body[0].children[2]",
+          "label": "Luật GTGT 2008 - Điều 3 (đối tượng chịu thuế)"
+        }
+      ]
+    },
+    {
+      "id": "Q03",
+      "required_chunks": [
+        {
+          "doc_id": "VAT",
+          "json_path": "$.body[0].children[4].children[0]",
+          "label": "Luật GTGT 2008 - Điều 5 khoản 1",
+          "match": {
+            "contains": "Sản phẩm trồng trọt"
+          }
+        }
+      ]
+    },
+    {
+      "id": "Q04",
+      "required_chunks": [
+        {
+          "doc_id": "QLT",
+          "json_path": "$.body[3].children[2].children[0].children[0]",
+          "label": "Luật QLT 2019 - Điều 44 khoản 1 điểm a"
+        }
+      ]
+    },
+    {
+      "id": "Q05",
+      "required_chunks": [
+        {
+          "doc_id": "QLT",
+          "json_path": "$.body[3].children[2].children[0].children[1]",
+          "label": "Luật QLT 2019 - Điều 44 khoản 1 điểm b"
+        }
+      ]
+    },
+    {
+      "id": "Q06",
+      "required_chunks": [
+        {
+          "doc_id": "QLT",
+          "json_path": "$.body[0].children[5]",
+          "label": "Luật QLT 2019 - Điều 7 (đồng tiền khai thuế, nộp thuế)",
+          "match": {
+            "contains": "Đồng tiền khai thuế"
+          }
+        },
+        {
+          "doc_id": "QLT",
+          "json_path": "$.body[0].children[5].children[0]",
+          "label": "Luật QLT 2019 - Điều 7 khoản 1"
+        },
+        {
+          "doc_id": "QLT",
+          "json_path": "$.body[0].children[5].children[1]",
+          "label": "Luật QLT 2019 - Điều 7 khoản 2 (quy đổi ra VND)"
+        }
+      ]
+    },
+    {
+      "id": "Q07",
+      "required_chunks": [
+        {
+          "doc_id": "TT80",
+          "json_path": "$.body[10].children[3]",
+          "label": "TT80 - Điều 86 (thời hạn nộp hồ sơ khai thuế)"
+        },
+        {
+          "doc_id": "QLT",
+          "json_path": "$.body[3].children[2]",
+          "label": "Luật QLT 2019 - Điều 44 (thời hạn nộp hồ sơ khai thuế)"
+        }
+      ]
+    },
+    {
+      "id": "Q08",
+      "required_chunks": [
+        {
+          "doc_id": "TT80",
+          "json_path": "$.appendices[0].content",
+          "label": "TT80 - Phụ lục (Danh mục mẫu biểu)",
+          "match": {
+            "regex": "\\b01/GTGT\\b"
+          }
+        }
+      ]
+    },
+    {
+      "id": "Q09",
+      "required_chunks": [
+        {
+          "doc_id": "ND123",
+          "json_path": "$.body[1].children[0].children[1]",
+          "label": "NĐ123 - Điều 9 (thời điểm lập hóa đơn)"
+        },
+        {
+          "doc_id": "ND123",
+          "json_path": "$.body[1].children[0].children[1].children[0]",
+          "label": "NĐ123 - Điều 9 khoản 1 (bán hàng hóa)"
+        }
+      ]
+    },
+    {
+      "id": "Q10",
+      "required_chunks": [
+        {
+          "doc_id": "ND123",
+          "json_path": "$.body[1].children[0].children[1].children[1]",
+          "label": "NĐ123 - Điều 9 khoản 2 (cung cấp dịch vụ)"
+        }
+      ]
+    },
+    {
+      "id": "Q11",
+      "required_chunks": [
+        {
+          "doc_id": "ND123",
+          "json_path": "$.body[1].children[0].children[11]",
+          "label": "NĐ123 - Điều 19 (xử lý hóa đơn có sai sót)"
+        }
+      ]
+    },
+    {
+      "id": "Q12",
+      "required_chunks": [
+        {
+          "doc_id": "TT78",
+          "json_path": "$.body[6]",
+          "label": "TT78 - Điều 7 (xử lý HĐĐT/bảng tổng hợp dữ liệu HĐĐT đã gửi CQT có sai sót)"
+        },
+        {
+          "doc_id": "TT78",
+          "json_path": "$.body[6].children[0].children[2]",
+          "label": "TT78 - Điều 7 (điểm c: dẫn chiếu điểm b khoản 2 Điều 19 NĐ123)",
+          "match": {
+            "contains": "điểm b khoản 2 Điều 19"
+          }
+        },
+        {
+          "doc_id": "ND123",
+          "json_path": "$.body[1].children[0].children[11]",
+          "label": "NĐ123 - Điều 19 (xử lý hóa đơn có sai sót)"
+        }
+      ]
+    },
+    {
+      "id": "Q13",
+      "required_chunks": [
+        {
+          "doc_id": "ND125",
+          "json_path": "$.body[1].children[0].children[4]",
+          "label": "NĐ125 - Điều 13 (xử phạt vi phạm về thời hạn nộp hồ sơ khai thuế)"
+        },
+        {
+          "doc_id": "ND125",
+          "json_path": "$.body[1].children[0].children[4].children[1]",
+          "label": "NĐ125 - Điều 13 khoản 2 (01-30 ngày)"
+        }
+      ]
+    },
+    {
+      "id": "Q14",
+      "required_chunks": [
+        {
+          "doc_id": "ND125",
+          "json_path": "$.body[1].children[0].children[4].children[2]",
+          "label": "NĐ125 - Điều 13 khoản 3 (31-60 ngày)"
+        }
+      ]
+    },
+    {
+      "id": "Q15",
+      "required_chunks": [
+        {
+          "doc_id": "ND125",
+          "json_path": "$.body[1].children[0].children[4].children[3]",
+          "label": "NĐ125 - Điều 13 khoản 4 (khung 8-15 triệu + các trường hợp)"
+        },
+        {
+          "doc_id": "ND125",
+          "json_path": "$.body[1].children[0].children[4].children[3].children[0]",
+          "label": "NĐ125 - Điều 13 khoản 4 điểm a (61-90 ngày)"
+        }
+      ]
+    },
+    {
+      "id": "Q16",
+      "required_chunks": [
+        {
+          "doc_id": "ND125",
+          "json_path": "$.body[1].children[0].children[4].children[4]",
+          "label": "NĐ125 - Điều 13 khoản 5 (nhắc khoản 11 Điều 143 Luật QLT)",
+          "match": {
+            "contains": "Điều 143 Luật Quản lý thuế"
+          }
+        },
+        {
+          "doc_id": "QLT",
+          "json_path": "$.body[14].children[1].children[2]",
+          "label": "Luật QLT 2019 - Điều 143"
+        },
+        {
+          "doc_id": "QLT",
+          "json_path": "$.body[14].children[1].children[2].children[10]",
+          "label": "Luật QLT 2019 - Điều 143 khoản 11"
+        }
+      ]
+    }
+  ]
+}

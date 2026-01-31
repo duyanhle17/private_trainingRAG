@@ -1,0 +1,588 @@
+{
+    "document_info": {
+        "title": "Luật thuế giá trị gia tăng 2008 số 13/2008/QH12 áp dụng 2024",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Luat-thue-gia-tri-gia-tang-2008-13-2008-QH12-66934.aspx",
+        "crawled_at": "2026-01-24"
+    },
+    "body": [
+        {
+            "type": "chapter",
+            "title": "Chương 1.\nNHỮNG QUY ĐỊNH CHUNG",
+            "children": [
+                {
+                    "type": "article",
+                    "title": "Điều 1. Phạm vi Điều chỉnh",
+                    "content": "Luật này quy định về đối tượng\nchịu thuế, đối tượng không chịu thuế, người nộp thuế, căn cứ và phương pháp\ntính thuế, khấu trừ và hoàn thuế giá trị gia tăng."
+                },
+                {
+                    "type": "article",
+                    "title": "Điều 2. Thuế giá trị gia tăng",
+                    "content": "Thuế giá trị gia tăng là thuế\ntính trên giá trị tăng thêm của hàng hóa, dịch vụ phát sinh trong quá trình từ\nsản xuất, lưu thông đến tiêu dùng."
+                },
+                {
+                    "type": "article",
+                    "title": "Điều 3. Đối tượng chịu thuế",
+                    "content": "Hàng hóa, dịch vụ sử dụng cho sản\nxuất, kinh doanh và tiêu dùng ở Việt Nam là đối tượng chịu thuế giá trị gia\ntăng, trừ các đối tượng quy định tại Điều 5 của Luật này."
+                },
+                {
+                    "type": "article",
+                    "title": "Điều 4. Người nộp thuế",
+                    "content": "Người nộp thuế giá trị gia tăng\nlà tổ chức, cá nhân sản xuất, kinh doanh hàng hóa, dịch vụ chịu thuế giá trị\ngia tăng (sau đây gọi là cơ sở kinh doanh) và tổ chức, cá nhân nhập khẩu hàng\nhóa chịu thuế giá trị gia tăng (sau đây gọi là người nhập khẩu)."
+                },
+                {
+                    "type": "article",
+                    "title": "Điều 5. Đối tượng không chịu thuế",
+                    "children": [
+                        {
+                            "type": "clause",
+                            "title": "1",
+                            "content": "Sản phẩm trồng\ntrọt, chăn nuôi, thủy sản nuôi trồng, đánh bắt chưa chế biến thành các sản phẩm\nkhác hoặc chỉ qua sơ chế thông thường của tổ chức, cá nhân tự sản xuất, đánh bắt\nbán ra và ở khâu nhập khẩu."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "2",
+                            "content": "Sản phẩm\nlà giống vật nuôi, giống cây trồng, bao gồm trứng giống, con giống, cây giống,\nhạt giống, tinh dịch, phôi, vật liệu di truyền."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "3",
+                            "content": "Tưới,\ntiêu nước; cày, bừa đất; nạo vét kênh, mương nội đồng phục vụ sản xuất nông\nnghiệp; dịch vụ thu hoạch sản phẩm nông nghiệp."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "4",
+                            "content": "Sản phẩm\nmuối được sản xuất từ nước biển, muối mỏ tự nhiên, muối tinh, muối i-ốt."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "5",
+                            "content": "Nhà ở thuộc\nsở hữu Nhà nước do Nhà nước bán cho người đang thuê."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "6",
+                            "content": "Chuyển\nquyền sử dụng đất"
+                        },
+                        {
+                            "type": "clause",
+                            "title": "7",
+                            "content": "Bảo hiểm\nnhân thọ, bảo hiểm người học, bảo hiểm vật nuôi, bảo hiểm cây trồng và tái bảo\nhiểm."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "8",
+                            "content": "Dịch vụ cấp\ntín dụng; kinh doanh chứng khoán; chuyển nhượng vốn; dịch vụ tài chính phát\nsinh, bao gồm hoán đổi lãi suất, hợp đồng kỳ hạn, hợp đồng tương lai, quyền chọn\nmua, bán ngoại tệ và các dịch vụ tài chính phát sinh khác theo quy định của\npháp luật."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "9",
+                            "content": "Dịch vụ y tế,\ndịch vụ thú y, bao gồm dịch vụ khám bệnh, chữa bệnh, phòng bệnh cho người và vật\nnuôi."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "10",
+                            "content": "Dịch vụ bưu chính, viễn\nthông công ích và In-ter-net phổ cập theo chương trình của Chính phủ."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "11",
+                            "content": "Dịch vụ\nphục vụ công cộng về vệ sinh, thoát nước đường phố và khu dân cư; duy trì vườn\nthú, vườn hoa, công viên, cây xanh đường phố, chiếu sáng công cộng; dịch vụ\ntang lễ."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "12",
+                            "content": "Duy tu,\nsửa chữa, xây dựng bằng nguồn vốn đóng góp của nhân dân, vốn viện trợ nhân đạo\nđối với các công trình văn hóa, nghệ thuật, công trình phục vụ công cộng, cơ sở\nhạ tầng và nhà ở cho đối tượng chính sách xã hội."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "13",
+                            "content": "Dạy học,\ndạy nghề theo quy định của pháp luật."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "14",
+                            "content": "Phát\nsóng truyền thanh, truyền hình bằng nguồn vốn ngân sách nhà nước."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "15",
+                            "content": "Xuất bản,\nnhập khẩu, phát hành báo, tạp chí, bản tin chuyên ngành, sách chính trị, sách\ngiáo khoa, giáo trình, sách văn bản pháp luật, sách khoa học – kỹ thuật, sách\nin bằng chữ dân tộc thiểu số và tranh, ảnh, áp phích tuyên truyền cổ động, kể cả\ndưới dạng băng hoặc đĩa ghi tiếng, ghi hình, dữ liệu điện tử; in tiền."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "16",
+                            "content": "Vận\nchuyển hành khách công cộng bằng xe buýt, xe điện."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "17",
+                            "content": "Máy móc,\nthiết bị, vật tư thuộc loại trong nước chưa sản xuất được cần nhập khẩu để sử dụng\ntrực tiếp cho hoạt động nghiên cứu khoa học, phát triển công nghệ; máy móc, thiết\nbị, phụ tùng thay thế, phương tiện vận tải chuyên dùng và vật tư thuộc loại\ntrong nước chưa sản xuất được cần nhập khẩu để tiến hành hoạt động tìm kiếm,\nthăm dò, phát triển mỏ dầu, khí đốt; tàu bay, dàn khoan, tàu thủy thuộc loại\ntrong nước chưa sản xuất được cần nhập khẩu tạo tài sản cố định của doanh nghiệp,\nthuê của nước ngoài sử dụng cho sản xuất, kinh doanh và để cho thuê."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "18",
+                            "content": "Vũ khí,\nkhí tài chuyên dùng phục vụ quốc phòng, an ninh."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "19",
+                            "content": "Hàng\nhóa nhập khẩu trong trường hợp viện trợ nhân đạo, viện trợ không hoàn lại; quà\ntặng cho cơ quan nhà nước, tổ chức chính trị, tổ chức chính trị - xã hội, tổ chức\nchính trị xã hội – nghề nghiệp, tổ chức xã hội, tổ chức xã hội – nghề nghiệp,\nđơn vị vũ trang nhân dân; quà biếu, quà tặng cho cá nhân tại Việt Nam theo mức\nquy định của Chính phủ; đồ dùng của tổ chức, cá nhân nước ngoài theo tiêu chuẩn\nmiễn trừ ngoại giao; hàng mang theo người trong tiêu chuẩn hành lý miễn thuế.\nHàng hóa, dịch vụ bán cho tổ chức,\ncá nhân nước ngoài, tổ chức quốc tế để viện trợ nhân đạo, viên trợ không hoàn lại\ncho Việt Nam."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "20",
+                            "content": "Hàng\nhóa chuyển khẩu, quá cảnh qua lãnh thổ Việt Nam; hàng tạm nhập khẩu, tái xuất\nkhẩu; hàng tạm xuất khẩu, tái nhập khẩu; nguyên liệu nhập khẩu để sản xuất, gia\ncông hàng hóa xuất khẩu theo hợp đồng sản xuất; gia công xuất khẩu ký kết với\nbên nước ngoài; hàng hóa, dịch vụ được mua bán giữa nước ngoài với các khu phi\nthuế quan và giữa các khu phi thuế quan với nhau."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "21",
+                            "content": "Chuyển\ngiao công nghệ theo quy định của Luật chuyển\ngiao công nghệ; chuyển nhượng quyền sở hữu trí tuệ\ntheo quy định của Luật sở hữu trí tuệ; phần mềm máy tính."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "22",
+                            "content": "Vàng nhập\nkhẩu dạng thỏi, miếng chưa được chế tác thành sản phẩm mỹ nghệ, đồ trang sức\nhay sản phẩm khác."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "23",
+                            "content": "Sản phẩm\nxuất khẩu là tài nguyên, khoáng sản khai thác chưa chế biến theo quy định của\nChính phủ."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "24",
+                            "content": "Sản phẩm\nnhân tạo dùng để thay thế cho bộ phận cơ thể của người bệnh; nạng, xe lăn và dụng\ncụ chuyên dùng khác cho người tàn tật."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "25",
+                            "content": "Hàng\nhóa, dịch vụ của cá nhân kinh doanh có mức thu nhập bình quân tháng thấp hơn mức\nlương tối thiểu chung áp dụng đối với tổ chức, doanh nghiệp trong nước.\nCơ sở kinh doanh hàng hóa, dịch\nvụ không chịu thuế giá trị gia tăng quy định tại Điều này không được khấu trừ\nvà hoàn thuế giá trị gia tăng đầu vào, trừ trường hợp áp dụng mức thuế suất 0%\nquy định tại khoản 1 Điều 8 của Luật này."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "chapter",
+            "title": "Chương 2.\nCĂN CỨ VÀ PHƯƠNG PHÁP\nTÍNH THUẾ",
+            "children": [
+                {
+                    "type": "article",
+                    "title": "Điều 6. Căn cứ tính thuế",
+                    "content": "Căn cứ tính thuế giá trị gia\ntăng là giá tính thuế và thuế suất."
+                },
+                {
+                    "type": "article",
+                    "title": "Điều 7. Giá tính thuế",
+                    "children": [
+                        {
+                            "type": "clause",
+                            "title": "1",
+                            "content": "Giá tính thuế được quy định\nnhư sau:",
+                            "children": [
+                                {
+                                    "type": "point",
+                                    "title": "a",
+                                    "content": "Đối với\nhàng hóa, dịch vụ do cơ sở sản xuất, kinh doanh bán ra là giá bán chưa có thuế\ngiá trị gia tăng. Đối với hàng hóa, dịch vụ chịu thuế tiêu thụ đặc biệt là giá\nbán đã có thuế tiêu thụ đặc biệt nhưng chưa có thuế giá trị gia tăng;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "b",
+                                    "content": "Đối với\nhàng hóa nhập khẩu là giá nhập tại cửa khẩu cộng với thuế nhập khẩu (nếu có), cộng\nvới thuế tiêu thụ đặc biệt (nếu có). Giá nhập tại cửa khẩu được xác định theo\nquy định về giá tính thuế hàng nhập khẩu."
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "c",
+                                    "content": "Đối với hàng hóa, dịch vụ\ndùng để trao đổi, tiêu dùng nội bộ, biếu tặng cho là giá tính thuế giá trị gia\ntăng của hàng hóa, dịch vụ cùng loại hoặc tương đương tại thời điểm phát sinh\ncác hoạt động này;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "d",
+                                    "content": "Đối với\nhoạt động cho thuê tài sản là số tiền cho thuê chưa có thuế giá trị gia tăng;\nTrường hợp cho thuê theo hình thức\ntrả tiền thuê từng kỳ hoặc trả trước tiền thuê cho một thời hạn thuê thì giá\ntính thuế là tiền cho thuê trả từng thời kỳ hoặc trả trước cho thời hạn thuê\nchưa có thuế giá trị gia tăng;\nTrường hợp thuê máy móc, thiết bị,\nphương tiện vận tải của nước ngoài loại trong nước chưa sản xuất được để cho\nthuê lại, giá tính thuế được trừ giá thuê phải trả cho nước ngoài."
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "đ",
+                                    "content": "Đối với hàng hóa bán theo\nphương thức trả góp, trả chậm là giá tính theo giá bán trả một lần chưa có thuế\ngiá trị gia tăng của hàng hóa đó, không bao gồm khoản lãi trả góp, lãi trả chậm;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "e",
+                                    "content": "Đối với gia công hàng hóa là\ngiá gia công chưa có thuế giá trị gia tăng;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "g",
+                                    "content": "Đối với\nhoạt động xây dựng, lắp đặt là giá trị công trình, hạng mục công trình hay phần\ncông việc thực hiện bàn giao chưa có thuế giá trị gia tăng. Trường hợp xây dựng,\nlắp đặt không bao thầu nguyên vật liệu, máy móc, thiết bị thì giá tính thuế là\ngiá trị xây dựng, lắp đặt không bao gồm giá trị nguyên vật liệu và máy móc, thiết\nbị;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "h",
+                                    "content": "Đối với\nhoạt động kinh doanh bất động sản là giá bán bất động sản chưa có thuế giá trị\ngia tăng, trừ giá chuyển quyền sử dụng đất hoặc tiền thuê đất phải nộp ngân\nsách nhà nước;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "i",
+                                    "content": "Đối với hoạt động đại lý, môi\ngiới mua bán hàng hóa và dịch vụ hưởng hoa hồng là tiền hoa hồng thu được từ\ncác hoạt động này chưa có thuế giá trị gia tăng;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "k",
+                                    "content": "Đối với\nhàng hóa, dịch vụ được sử dụng chứng từ thanh toán ghi giá thanh toán là giá đã\ncó thuế giá trị gia tăng thì giá tính thuế được xác định theo công thức sau:\n| Giá\nchưa có thuế giá trị gia tăng | = | Giá\nthanh toán |\n| 1\n+ thuế suất của hàng hóa, dịch vụ (%) |"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "clause",
+                            "title": "2",
+                            "content": "Giá tính thuế đối với hàng\nhóa, dịch vụ quy định tại khoản 1 Điều này bao gồm cả khoản phụ thu và phí thu\nthêm mà cơ sở kinh doanh được hưởng."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "3",
+                            "content": "Giá tính\nthuế được xác định bằng đồng Việt Nam. Trường hợp người nộp thuế có doanh thu bằng\nngoại tệ thì phải quy đổi ra đồng Việt Nam theo tỷ giá giao dịch bình quân trên\nthị trường ngoại tệ liên ngân hàng do Ngân hàng Nhà nước Việt Nam công bố tại\nthời điểm phát sinh doanh thu để xác định giá tính thuế."
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "title": "Điều 8. Thuế suất",
+                    "children": [
+                        {
+                            "type": "clause",
+                            "title": "1",
+                            "content": "Mức thuế\nsuất 0% áp dụng đối với hàng hóa, dịch vụ xuất khẩu, vận tải quốc tế và hàng\nhóa, dịch vụ không chịu thuế giá trị gia tăng quy định tại Điều\n5 của Luật này khi xuất khẩu, trừ các trường hợp\nchuyển giao công nghệ, chuyển nhượng quyền sở hữu trí tuệ ra nước ngoài; dịch vụ\ntái bảo hiểm ra nước ngoài; dịch vụ cấp tín dụng, chuyển nhượng vốn, dịch vụ\ntài chính phát sinh; dịch vụ bưu chính, viễn thông; sản phẩm xuất khẩu là tài\nnguyên, khoáng sản khai thác chưa qua chế biến quy định tại khoản\n23 Điều 5 của Luật này."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "2",
+                            "content": "Mức thuế\nsuất 5% áp dụng đối với hàng hóa, dịch vụ sau đây:",
+                            "children": [
+                                {
+                                    "type": "point",
+                                    "title": "a",
+                                    "content": "Nước sạch phục vụ sản xuất và\nsinh hoạt;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "b",
+                                    "content": "Phân bón;\nquặng để sản xuất phân bón; thuốc phòng trừ sâu bệnh và chất kích thích tăng\ntrưởng vật nuôi, cây trồng;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "c",
+                                    "content": "Thức ăn\ngia súc, gia cầm và thức ăn cho vật nuôi khác;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "d",
+                                    "content": "Dịch vụ\nđào đắp, nạo vét kênh, mương, ao hồ phục vụ sản xuất nông nghiệp; nuôi trồng,\nchăm sóc, phòng trừ sâu bệnh cho cây trồng; sơ chế, bảo quản sản phẩm nông nghiệp;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "đ",
+                                    "content": "Sản phẩm trồng trọt,chăn\nnuôi, thủy sản chưa qua chế biến, trừ sản phẩm quy định tại khoản\n1 Điều 5 của Luật này;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "e",
+                                    "content": "Mủ cao\nsu sơ chế; nhựa thông sơ chế; lưới, dây giềng và sợi để đan lưới đánh cá;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "g",
+                                    "content": "Thực phẩm\ntươi sống; lâm sản chưa qua chế biến, trừ gỗ, măng và sản phẩm quy định tại\nkhoản 1 Điều 5 của Luật này;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "h",
+                                    "content": "Đường;\nphụ phẩm trong sản xuất đường, bao gồm gỉ đường, bã mía, bã bùn;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "i",
+                                    "content": "Sản phẩm\nbằng đay, cói, tre, nứa, lá, rơm, vỏ dừa, sọ dừa, bèo tây và các sản phẩm thủ\ncông khác sản xuất bằng nguyên liệu tận dụng từ nông nghiệp; bông sơ chế; giấy\nin báo;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "k",
+                                    "content": "Máy móc,\nthiết bị chuyên dùng phục vụ cho sản xuất nông nghiệp, bao gồm máy cày, máy bừa,\nmáy cấy, máy gieo hạt, máy tuốt lúa, máy gặt, máy gặt đập liên hợp, máy thu hoạch\nsản phẩm nông nghiệp, máy hoặc bình bơm thuốc trừ sâu;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "l",
+                                    "content": "Thiết bị,\ndụng cụ y tế, bông, băng vệ sinh y tế; thuốc phòng bệnh, chữa bệnh; sản phẩm\nhóa dược, dược liệu là nguyên liệu sản xuất thuốc chữa bệnh, thuốc phòng bệnh;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "m",
+                                    "content": "Giáo cụ\ndùng để giảng dạy và học tập, bao gồm các loại mô hình, hình vẽ, bảng, phấn,\nthước kẻ, com-pa và các loại thiết bị, dụng cụ chuyên dùng cho giảng dạy,\nnghiên cứu, thí nghiệm khoa học;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "n",
+                                    "content": "Hoạt động\nvăn hóa, triển lãm, thể dục, thể thao; biểu diễn nghệ thuật, sản xuất phim; nhập\nkhẩu, phát hành và chiếu phim;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "o",
+                                    "content": "Đồ chơi\ncho trẻ em; sách các loại, trừ sách quy định tại khoản 15 Điều\n5 của Luật này;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "p",
+                                    "content": "Dịch vụ\nkhoa học, công nghệ theo quy định của Luật\nkhoa học và công nghệ."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "clause",
+                            "title": "3",
+                            "content": "Mức thuế\nsuất 10% áp dụng đối với hàng hóa, dịch vụ không quy định tại khoản 1 và khoản\n2 Điều này."
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "title": "Điều 9. Phương pháp tính thuế",
+                    "content": "Phương pháp tính thuế giá trị\ngia tăng gồm phương pháp khấu trừ thuế giá trị gia tăng và phương pháp tính trực\ntiếp trên giá trị gia tăng."
+                },
+                {
+                    "type": "article",
+                    "title": "Điều 10. Phương pháp khấu trừ thuế",
+                    "children": [
+                        {
+                            "type": "clause",
+                            "title": "1",
+                            "content": "Phương pháp khấu trừ thuế giá\ntrị gia tăng được quy định như sau:",
+                            "children": [
+                                {
+                                    "type": "point",
+                                    "title": "a",
+                                    "content": "Số thuế giá trị gia tăng phải\nnộp theo phương pháp khấu trừ thuế bằng số thuế giá trị gia tăng đầu ra trừ số\nthuế giá trị gia tăng đầu vào được khấu trừ;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "b",
+                                    "content": "Số thuế giá trị gia tăng đầu\nra bằng tổng số thuế giá trị gia tăng của hàng hóa, dịch vụ bán ra ghi trên hóa\nđơn giá trị gia tăng;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "c",
+                                    "content": "Số thuế giá trị gia tăng đầu\nvào được khấu trừ bằng tổng số thuế giá trị gia tăng ghi trên hóa đơn giá trị\ngia tăng mua hàng hóa, dịch vụ, chứng từ nộp thuế giá trị gia tăng của hàng hóa\nnhập khẩu và đáp ứng Điều kiện quy định tại Điều 12 của Luật này."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "clause",
+                            "title": "2",
+                            "content": "Phương\npháp khấu trừ thuế áp dụng đối với cơ sở kinh doanh thực hiện đầy đủ chế độ kế\ntoán, hóa đơn, chứng từ theo quy định của pháp luật về kế toán, hóa đơn, chứng\ntừ và đăng ký nộp thuế theo phương pháp khấu trừ thuế."
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "title": "Điều 11. Phương pháp tính trực tiếp trên giá trị gia tăng",
+                    "children": [
+                        {
+                            "type": "clause",
+                            "title": "1",
+                            "content": "Phương pháp tính trực tiếp\ntrên giá trị gia tăng được quy định như sau:",
+                            "children": [
+                                {
+                                    "type": "point",
+                                    "title": "a",
+                                    "content": "Số thuế giá trị gia tăng phải\nnộp theo phương pháp tính trực tiếp trên giá trị gia tăng bằng giá trị gia tăng\ncủa hàng hóa, dịch vụ bán ra nhân với thuế suất thuế giá trị gia tăng;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "b",
+                                    "content": "Giá trị gia tăng được xác định\nbằng giá thanh toán của hàng hóa, dịch vụ bán ra trừ giá thanh toán của hàng\nhóa, dịch vụ mua vào tương ứng."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "clause",
+                            "title": "2",
+                            "content": "Phương pháp tính trực tiếp\ntrên giá trị gia tăng áp dụng đối với các trường hợp sau đây:",
+                            "children": [
+                                {
+                                    "type": "point",
+                                    "title": "a",
+                                    "content": "Cơ sở kinh doanh và tổ chức,\ncá nhân nước ngoài kinh doanh không có cơ sở thường trú tại  Việt Nam\nnhưng có thu nhập phát sinh tại Việt Nam chưa thực hiện đầy đủ chế độ kế toán,\nhóa đơn chứng từ;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "b",
+                                    "content": "Hoạt động\nmua bán vàng, bạc, đá quý."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "chapter",
+            "title": "Chương 3.\nKHẤU TRỪ, HOÀN THUẾ",
+            "children": [
+                {
+                    "type": "article",
+                    "title": "Điều 12. Khấu trừ thuế giá trị gia tăng đầu vào",
+                    "children": [
+                        {
+                            "type": "clause",
+                            "title": "1",
+                            "content": "Cơ sở kinh\ndoanh nộp thuế giá trị gia tăng theo phương pháp khấu trừ thuế được khấu trừ\nthuế giá trị gia tăng đầu vào như sau:",
+                            "children": [
+                                {
+                                    "type": "point",
+                                    "title": "a",
+                                    "content": "Thuế giá trị gia tăng đầu vào\ncủa hàng hóa, dịch vụ sử dụng cho sản xuất, kinh doanh hàng hóa, dịch vụ chịu\nthuế giá trị gia tăng được khấu trừ toàn bộ;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "b",
+                                    "content": "Thuế giá trị gia tăng đầu vào\ncủa hàng hóa, dịch vụ sử dụng đồng thời cho sản xuất, kinh doanh hàng hóa, dịch\nvụ chịu thuế và không chịu thuế thì chỉ được khấu trừ số thuế giá trị gia tăng\nđầu vào của hàng hóa,dịch vụ sử dụng cho sản xuất, kinh doanh hàng hóa, dịch vụ\nchịu thuế giá trị gia tăng. Trường hợp thuế giá trị gia tăng đầu vào của tài sản\ncố định sử dụng đồng thời cho sản xuất, kinh doanh hàng hóa, dịch vụ chịu thuế\ngiá trị gia tăng và không chịu thuế giá trị gia tăng thì được khấu trừ toàn bộ;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "c",
+                                    "content": "Thuế giá trị gia tăng đầu vào\ncủa hàng hóa, dịch vụ bán cho tổ chức, cá nhân sử dụng nguồn vốn viện trợ nhân\nđạo, viện trợ không hoàn lại được khấu trừ toàn bộ;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "d",
+                                    "content": "Thuế\ngiá trị gia tăng đầu vào phát sinh trong tháng nào được kê khai, khấu trừ khi\nxác định số thuế phải nộp của tháng đó. Trường hợp cơ sở kinh doanh phát hiện số\nthuế giá trị gia tăng đầu vào khi kê khai, khấu trừ bị sai sót thì được kê\nkhai, khấu trừ bổ sung; thời gian để kê khai, bổ sung tối đa là 6 tháng, kể từ\nthời điểm phát sinh sai sót."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "clause",
+                            "title": "2",
+                            "content": "Điều kiện\nkhấu trừ thuế giá trị gia tăng đầu vào được quy định như sau:",
+                            "children": [
+                                {
+                                    "type": "point",
+                                    "title": "a",
+                                    "content": "Có hóa\nđơn giá trị gia tăng mua hàng hóa, dịch vụ hoặc chứng từ nộp thuế giá trị gia\ntăng ở khâu nhập khẩu;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "b",
+                                    "content": "Có chứng từ thanh toán qua\nngân hàng đối với hàng hóa, dịch vụ mua vào, trừ hàng hóa, dịch vụ mua từng lần\ncó giá trị dưới hai mươi triệu đồng;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "c",
+                                    "content": "Đối với\nhàng hóa, dịch vụ xuất khẩu, ngoài các Điều kiện quy định tại điểm a và điểm b\nkhoản này phải có hợp đồng ký kết với bên ngoài về việc bán, gia công hàng hóa,\ncung ứng dịch vụ, hóa đơn bán hàng hóa, dịch vụ, chứng từ thanh toán qua ngân\nhàng, tờ khai hải quan đối với hàng hóa xuất khẩu.\nViệc thanh toán tiền hàng hóa, dịch\nvụ xuất khẩu dưới hình thức thanh toán bù trừ giữa hàng hóa, dịch vụ xuất khẩu\nvới hàng hóa, dịch vụ nhập khẩu, trả nợ thay Nhà nước được coi là thanh toán\nqua ngân hàng."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "title": "Điều 13. Các trường hợp hoàn thuế",
+                    "children": [
+                        {
+                            "type": "clause",
+                            "title": "1",
+                            "content": "Cơ sở kinh\ndoanh nộp thuế giá trị gia tăng theo phương pháp khấu trừ thuế được hoàn thuế\ngiá trị gia tăng nếu trong ba tháng liên tục trở lên có số thuế giá trị gia\ntăng đầu vào chưa được khấu trừ hết.\nTrường hợp cơ sở kinh doanh đã\nđăng ký nộp thuế giá trị gia tăng theo phương pháp khấu trừ có dự án đầu tư mới,\nđang trong giai đoạn đầu tư có số thuế giá trị gia tăng của hàng hóa, dịch vụ\nmua vào sử dụng cho nhà đầu tư mà chưa được khấu trừ hết và có số thuế còn lại\ntừ hai trăm triệu đồng trở lên thì được hoàn thuế giá trị gia tăng."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "2",
+                            "content": "Cơ sở kinh\ndoanh trong tháng có hàng hóa, dịch vụ xuất khẩu nếu có số thuế giá trị gia\ntăng đầu vào chưa được khấu trừ từ hai trăm triệu đồng trở lên thì được hoàn\nthuế giá trị gia tăng theo tháng."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "3",
+                            "content": "Cơ sở\nkinh doanh nộp thuế giá trị gia tăng theo phương pháp khấu trừ thuế được hoàn\nthuế giá trị gia tăng khi chuyển đổi sở hữu, chuyển đổi doanh nghiệp, sáp nhập,\nhợp nhất, chia, tách, giải thể, phá sản, chấm dứt hoạt động có số thuế giá trị\ngia tăng nộp thừa hoặc số thuế giá trị gia tăng đầu vào chưa được khấu trừ hết."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "4",
+                            "content": "Cơ sở\nkinh doanh có quyết định hoàn thuế giá trị gia tăng của cơ quan có thẩm quyền\ntheo quy định của pháp luật và trường hợp hoàn thuế giá trị gia tăng theo Điều\nước quốc tế mà Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên."
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "title": "Điều 14. Hóa đơn, chứng từ",
+                    "children": [
+                        {
+                            "type": "clause",
+                            "title": "1",
+                            "content": "Việc mua bán hàng hóa, dịch vụ\nphải có hóa đơn, chứng từ theo quy định của pháp luật và các quy định sau đây:",
+                            "children": [
+                                {
+                                    "type": "point",
+                                    "title": "a",
+                                    "content": "Cơ sở kinh doanh nộp thuế\ntheo phương pháp khấu trừ thuế sử dụng hóa đơn giá trị gia tăng; hóa đơn phải\nđược ghi đầy đủ, đúng nội dung quy định, bao gồm cả khoản phụ thu, phí thu thêm\n(nếu có). Trường hợp bán hàng hóa, dịch vụ chịu thuế giá trị gia tăng mà trên\nhóa đơn giá trị gia tăng không ghi khoản thuế giá trị gia tăng thì thuế giá trị\ngia tăng đầu ra được xác định bằng giá thanh toán ghi trên hóa đơn nhân với thuế\nsuất thuế giá trị gia tăng, trừ trường hợp quy định tại khoản 2 Điều này;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "b",
+                                    "content": "Cơ sở kinh doanh nộp thuế\ntheo phương pháp tính trực tiếp trên giá trị gia tăng sử dụng hóa đơn bán hàng."
+                                }
+                            ]
+                        },
+                        {
+                            "type": "clause",
+                            "title": "2",
+                            "content": "Đối với các loại tem, vé là\nchứng từ thanh toán in sẵn giá thanh toán thì giá thanh toán tem, vé đó đã bao\ngồm thuế giá trị gia tăng."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "chapter",
+            "title": "Chương 5.",
+            "content": "ĐIỀU KHOẢN THI HÀNH",
+            "children": [
+                {
+                    "type": "article",
+                    "title": "Điều 15. Hiệu lực thi hành",
+                    "children": [
+                        {
+                            "type": "clause",
+                            "title": "1",
+                            "content": "Luật này có hiệu lực thi hành\ntừ ngày 01 tháng 01 năm 2009."
+                        },
+                        {
+                            "type": "clause",
+                            "title": "2",
+                            "content": "Luật này thay thế các luật\nsau đây:",
+                            "children": [
+                                {
+                                    "type": "point",
+                                    "title": "a",
+                                    "content": "Luật\nthuế giá trị gia tăng năm 1997;"
+                                },
+                                {
+                                    "type": "point",
+                                    "title": "b",
+                                    "content": "Luật\nsửa đổi, bổ sung một số Điều của Luật thuế giá trị gia tăng số 07/2003/QH11;"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "clause",
+                            "title": "3",
+                            "content": "Bãi bỏ Điều 2\ncủa Luật sửa đổi, bổ sung một số Điều của Luật thuế tiêu thụ đặc biệt và Luật\nthuế giá trị gia tăng số 57/2005/QH11."
+                        }
+                    ]
+                },
+                {
+                    "type": "article",
+                    "title": "Điều 16. Hướng dẫn thi hành",
+                    "content": "Chính phủ quy định chi tiết và\nhướng dẫn thi hành các Điều 5, 7, 8, 12, 13 và các nội dung cần thiết khác của\nLuật này theo yêu cầu quản lý.\nLuật này đã được Quốc hội nước\nCộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 3 thông qua ngày 03\ntháng 6 năm 2008.\n|  | CHỦ\nTỊCH QUỐC HỘI Nguyễn Phú Trọng |"
+                }
+            ]
+        }
+    ],
+    "footer": "",
+    "appendices": []
+}

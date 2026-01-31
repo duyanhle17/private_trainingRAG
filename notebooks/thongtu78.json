@@ -1,0 +1,681 @@
+{
+    "document_info": {
+        "title": "Thông tư 78/2021/TT-BTC hướng dẫn Luật Quản lý thuế Nghị định 123/2020/NĐ-CP hóa đơn chứng từ",
+        "url": "https://thuvienphapluat.vn/van-ban/Thue-Phi-Le-Phi/Thong-tu-78-2021-TT-BTC-huong-dan-Luat-Quan-ly-thue-Nghi-dinh-123-2020-ND-CP-hoa-don-chung-tu-477966.aspx",
+        "crawled_at": "2026-01-24"
+    },
+    "body": [
+        {
+            "type": "article",
+            "title": "Điều 1. Phạm vi điều chỉnh",
+            "content": "Thông tư này hướng dẫn một số nội dung về hóa đơn, chứng từ theo\nquy định tại Luật\nQuản lý thuế\nngày 13/6/2019, Nghị định số 123/2020/NĐ-CP\nngày 19/10/2020 của Chính phủ quy định về hóa đơn, chứng từ\n(sau đây gọi là Nghị định số 123/2020/NĐ-CP)\nbao gồm:",
+            "children": [
+                {
+                    "type": "clause",
+                    "title": "1",
+                    "content": "Một số nội dung về hóa đơn điện tử gồm: ủy nhiệm lập\nhóa đơn điện tử; ký hiệu mẫu số, ký hiệu hóa đơn điện tử; chuyển đổi áp dụng\nhóa đơn điện tử có mã của cơ quan thuế; áp dụng hóa đơn điện tử đối với một số\ntrường hợp khác; xử lý hóa đơn điện tử, bảng tổng hợp dữ liệu hóa đơn điện tử\nđã gửi cơ quan thuế có sai sót; hóa đơn điện tử có mã của cơ quan\nthuế được khởi tạo từ máy tính tiền có kết nối chuyển dữ liệu điện tử với cơ\nquan thuế; tiêu chí đối với tổ chức cung\ncấp dịch vụ về hóa đơn điện tử để ký hợp đồng cung cấp dịch vụ hóa đơn điện tử\ncó mã của cơ quan thuế và dịch vụ nhận, truyền, lưu trữ dữ liệu hóa đơn và các\ndịch vụ khác có liên quan."
+                },
+                {
+                    "type": "clause",
+                    "title": "2",
+                    "content": "Một số nội dung về hóa đơn giấy gồm: tên loại hóa đơn, ký hiệu mẫu số hóa đơn,\nký hiệu hóa đơn, tên liên hóa đơn do Cục Thuế đặt in, ký hiệu mẫu số hóa đơn là\ntem, vé, thẻ do Cục Thuế đặt in."
+                },
+                {
+                    "type": "clause",
+                    "title": "3",
+                    "content": "Sử dụng biên lai, chứng từ."
+                },
+                {
+                    "type": "clause",
+                    "title": "4",
+                    "content": "Hướng dẫn xử lý chuyển tiếp."
+                }
+            ]
+        },
+        {
+            "type": "article",
+            "title": "Điều 2. Đối tượng áp dụng Đối tượng áp dụng hướng dẫn tại Thông tư này là tổ chức, cá nhân quy định tại Điều",
+            "content": "2 Nghị định số 123/2020/NĐ-CP."
+        },
+        {
+            "type": "article",
+            "title": "Điều 3. Ủy nhiệm lập hóa đơn điện tử",
+            "children": [
+                {
+                    "type": "clause",
+                    "title": "1",
+                    "content": "Nguyên tắc ủy nhiệm lập hóa đơn",
+                    "children": [
+                        {
+                            "type": "point",
+                            "title": "a",
+                            "content": "Người bán hàng hóa, cung cấp dịch vụ\nlà doanh nghiệp, tổ chức kinh tế, tổ chức khác được\nquyền ủy nhiệm cho bên thứ ba là bên\ncó quan hệ liên kết với người bán, là đối tượng\nđủ điều kiện sử dụng hóa đơn điện\ntử và không thuộc trường hợp ngừng sử dụng hóa đơn điện tử theo quy định tại Điều 16 Nghị định số 123/2020/NĐ-CP để lập hóa đơn điện tử cho\nhoạt động bán hàng hóa, dịch vụ. Quan hệ liên kết được\nxác định theo quy định của pháp luật về quản lý thuế;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "b",
+                            "content": "Việc ủy nhiệm phải được lập bằng văn bản (hợp đồng hoặc thỏa\nthuận) giữa bên ủy nhiệm và bên nhận ủy nhiệm;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "c",
+                            "content": "Việc ủy nhiệm phải thông báo cho cơ quan thuế khi đăng ký sử\ndụng hóa đơn điện tử;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "d",
+                            "content": "Hóa đơn điện tử do tổ chức được ủy nhiệm lập là hóa đơn\nđiện tử có mã hoặc không có mã của cơ quan thuế và phải thể\nhiện tên, địa chỉ, mã số thuế của bên ủy nhiệm và tên, địa chỉ, mã số thuế của\nbên nhận ủy nhiệm;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "đ",
+                            "content": "Bên ủy nhiệm và bên nhận ủy nhiệm có trách nhiệm niêm yết trên\nwebsite của đơn vị mình hoặc thông báo công khai trên phương tiện thông tin đại\nchúng để người mua hàng hóa, dịch vụ được biết về việc ủy nhiệm lập hóa đơn.\nKhi hết thời hạn ủy nhiệm hoặc chấm dứt trước thời hạn ủy nhiệm lập hóa\nđơn điện tử theo thỏa thuận giữa các bên thì bên ủy nhiệm, bên nhận ủy nhiệm\nhủy các niêm yết, thông báo trên website của đơn vị mình hoặc thông báo công\nkhai trên phương tiện thông tin đại chúng về việc ủy nhiệm lập hóa đơn;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "e",
+                            "content": "Trường hợp hóa đơn ủy nhiệm là hóa đơn điện tử không có mã của cơ quan thuế (sau\nđây gọi là hóa đơn điện tử không có mã) thì bên ủy nhiệm phải chuyển dữ liệu\nhóa đơn điện tử đến cơ quan thuế quản lý trực tiếp hoặc thông qua tổ\nchức cung cấp dịch vụ để chuyển dữ liệu hóa đơn điện tử đến cơ quan thuế quản\nlý trực tiếp;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "g",
+                            "content": "Bên nhận ủy nhiệm có trách nhiệm lập hóa đơn điện tử ủy nhiệm theo đúng thực tế\nphát sinh, theo thỏa thuận với bên ủy nhiệm và tuân thủ nguyên tắc tại khoản 1 Điều\nnày."
+                        }
+                    ]
+                },
+                {
+                    "type": "clause",
+                    "title": "2",
+                    "content": "Hợp đồng ủy nhiệm hoặc thỏa thuận ủy nhiệm",
+                    "children": [
+                        {
+                            "type": "point",
+                            "title": "a",
+                            "content": "Hợp đồng ủy nhiệm hoặc thỏa thuận ủy nhiệm phải thể hiện đầy đủ các thông tin\nvề bên ủy nhiệm và bên nhận ủy nhiệm (tên, địa chỉ, mã số thuế, chứng thư số);\nthông tin về hóa đơn điện tử ủy nhiệm (loại hóa đơn, ký hiệu hóa đơn, ký hiệu mẫu\nsố hóa đơn); mục đích ủy nhiệm; thời hạn ủy nhiệm; phương thức thanh toán hóa đơn\nủy nhiệm (ghi rõ trách nhiệm thanh toán tiền hàng hóa, dịch vụ trên hóa đơn ủy\nnhiệm);"
+                        },
+                        {
+                            "type": "point",
+                            "title": "b",
+                            "content": "Bên ủy nhiệm và bên nhận ủy nhiệm có trách nhiệm lưu trữ văn bản ủy nhiệm và\nxuất trình khi cơ quan có thẩm quyền yêu cầu."
+                        }
+                    ]
+                },
+                {
+                    "type": "clause",
+                    "title": "3",
+                    "content": "Thông báo với cơ quan thuế về việc ủy nhiệm lập hóa đơn điện tử",
+                    "children": [
+                        {
+                            "type": "point",
+                            "title": "a",
+                            "content": "Việc ủy nhiệm được xác định là thay đổi thông tin đăng ký sử dụng hóa đơn điện\ntử theo quy định tại Điều 15 Nghị định số 123/2020/NĐ-CP.\nBên ủy nhiệm và bên nhận ủy nhiệm sử dụng Mẫu số 01ĐKTĐ/HĐĐT ban hành kèm theo\nNghị định số 123/2020/NĐ-CP để thông báo\nvới cơ quan thuế về việc ủy nhiệm lập hóa đơn điện tử, bao gồm cả trường hợp\nchấm dứt trước thời hạn ủy nhiệm lập hóa đơn điện tử theo thỏa thuận giữa các\nbên;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "b",
+                            "content": "Bên ủy nhiệm điền thông tin của bên nhận ủy nhiệm, bên nhận ủy nhiệm điền thông\ntin của bên ủy nhiệm tại Mẫu số\n01ĐKTĐ/HĐĐT ban hành kèm theo Nghị định số 123/2020/NĐ-CP\nnhư sau:\n-\nĐối với bên ủy nhiệm và bên nhận ủy nhiệm tại Phần 5 “Danh sách chứng thư số sử\ndụng” điền thông tin đầy đủ chứng thư số sử dụng của cả hai bên;\n-\nĐối với bên nhận ủy nhiệm tại cột 5 Phần 6 “Đăng ký ủy nhiệm lập hóa đơn” điền\nthông tin tên, tổ chức ủy nhiệm và mã số thuế của bên ủy nhiệm."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "article",
+            "title": "Điều 4. Ký hiệu mẫu số, ký hiệu hóa đơn, tên liên hóa đơn",
+            "children": [
+                {
+                    "type": "clause",
+                    "title": "1",
+                    "content": "Hóa đơn điện tử",
+                    "children": [
+                        {
+                            "type": "point",
+                            "title": "a",
+                            "content": "Ký hiệu mẫu số hóa đơn điện tử là ký tự có một chữ số tự nhiên là các số tự\nnhiên 1, 2, 3, 4, 5, 6 để phản ánh loại hóa đơn điện tử như sau:\n-\nSố 1: Phản ánh loại hóa đơn điện tử giá trị gia tăng;\n-\nSố 2: Phản ánh loại hóa đơn điện tử bán hàng;\n-\nSố 3: Phản ánh loại hóa đơn điện tử bán tài\nsản công;\n- Số 4: Phản ánh loại hóa đơn điện\ntử bán hàng dự trữ quốc gia;\n-\nSố 5: Phản ánh các loại hóa đơn điện tử khác là tem điện tử, vé điện tử, thẻ\nđiện tử, phiếu thu điện tử hoặc các chứng từ điện tử có tên gọi khác nhưng có\nnội dung của hóa đơn điện tử theo quy định tại Nghị định số 123/2020/NĐ-CP;\n-\nSố 6: Phản ánh các chứng từ điện tử\nđược sử dụng và quản lý như hóa đơn gồm phiếu xuất kho kiêm vận chuyển\nnội bộ điện tử, phiếu xuất kho hàng gửi bán đại lý\nđiện tử."
+                        },
+                        {
+                            "type": "point",
+                            "title": "b",
+                            "content": "Ký hiệu hóa đơn điện tử là nhóm 6 ký tự gồm cả chữ viết và chữ số thể hiện ký\nhiệu hóa đơn điện tử để phản ánh các thông tin về loại hóa đơn điện tử có mã\ncủa cơ quan thuế hoặc hóa đơn điện tử không mã, năm lập hóa đơn, loại hóa đơn\nđiện tử được sử dụng. Sáu (06) ký tự này được quy định như sau:\n-\nKý tự đầu tiên là một (01) chữ cái được quy định là C hoặc K như sau: C thể\nhiện hóa đơn điện tử có mã của cơ quan thuế, K thể hiện hóa đơn điện tử không\ncó mã;\n-\nHai ký tự tiếp theo là hai (02) chữ số Ả rập thể hiện năm lập hóa đơn điện tử\nđược xác định theo 2 chữ số cuối của năm dương lịch. Ví dụ: Năm lập hóa đơn\nđiện tử là năm 2022 thì thể hiện là số 22; năm lập hóa đơn điện tử là năm 2023\nthì thể hiện là số 23;\n-\nMột ký tự tiếp theo là một (01) chữ cái được quy định là T, D, L, M, N, B, G, H\nthể hiện loại hóa đơn điện tử được sử dụng, cụ thể:\n+\nChữ T: Áp dụng đối với hóa đơn điện tử do các doanh nghiệp, tổ chức, hộ, cá\nnhân kinh doanh đăng ký sử dụng với cơ quan thuế;\n+\nChữ D: Áp dụng đối với hóa đơn bán tài sản công và hóa đơn bán hàng\ndự trữ quốc gia hoặc hóa đơn điện tử đặc thù không\nnhất thiết phải có một số tiêu thức do các doanh nghiệp, tổ chức đăng ký sử\ndụng;\n+\nChữ L: Áp dụng đối với hóa đơn điện tử của cơ quan thuế cấp theo từng lần\nphát sinh;\n+ Chữ M: Áp dụng đối với hóa đơn điện tử được khởi tạo từ máy\ntính tiền;\n+ Chữ N: Áp dụng đối với phiếu xuất kho kiêm vận chuyển nội bộ\nđiện tử;\n+ Chữ B: Áp dụng đối với phiếu xuất kho hàng gửi bán đại lý điện\ntử;\n+\nChữ G: Áp dụng đối\nvới tem, vé, thẻ điện tử là hóa đơn giá trị gia tăng;\n+\nChữ H: Áp dụng đối với tem, vé, thẻ điện tử là hóa đơn bán hàng.\n- Hai ký tự cuối là chữ viết do người bán tự xác định căn cứ\ntheo nhu cầu quản lý. Trường hợp người bán sử dụng nhiều mẫu hóa đơn điện tử\ntrong cùng một loại hóa đơn thì sử dụng hai ký tự cuối nêu trên để phân biệt\ncác mẫu hóa đơn khác nhau trong cùng một loại hóa đơn. Trường hợp không có nhu\ncầu quản lý thì để là YY;\n- Tại bản thể hiện, ký hiệu hóa đơn điện tử và ký hiệu mẫu số hóa\nđơn điện tử được thể hiện ở phía trên bên phải của hóa đơn (hoặc ở vị trí dễ\nnhận biết);\n- Ví dụ thể hiện các ký tự của ký hiệu mẫu hóa đơn điện tử và ký\nhiệu hóa đơn điện tử:\n+\n“1C22TAA” – là hóa đơn giá trị gia tăng có mã của cơ quan thuế được lập năm\n2022 và là hóa đơn điện tử do doanh nghiệp, tổ chức đăng ký sử dụng với cơ quan\nthuế;\n+\n“2C22TBB” – là hóa đơn bán hàng có mã của cơ quan thuế được lập năm 2022 và là\nhóa đơn điện tử do doanh nghiệp, tổ chức, hộ cá nhân kinh doanh ký sử dụng với\ncơ quan thuế;\n+\n“1C23LBB” – là hóa đơn giá trị gia tăng có mã của cơ quan thuế được lập năm\n2023 và là hóa đơn điện tử của cơ quan thuế cấp theo từng lần phát sinh;\n+\n“1K23TYY” – là hóa đơn giá trị gia tăng loại không có mã được lập năm 2023 và\nlà hóa đơn điện tử do doanh nghiệp, tổ chức đăng ký sử dụng với cơ quan thuế;\n+\n“1K22DAA” – là hóa đơn giá trị gia tăng loại không có mã được lập năm 2022 và\nlà hóa đơn điện tử đặc thù không nhất thiết phải có một số tiêu thức bắt buộc\ndo các doanh nghiệp, tổ chức đăng ký sử dụng;\n+ “6K22NAB” – là phiếu xuất kho kiêm vận chuyển nội bộ điện tử\nloại không có mã được lập năm 2022 doanh nghiệp đăng ký với cơ quan thuế;\n+ “6K22BAB” – là phiếu xuất kho hàng gửi bán đại\nlý điện tử loại không có mã được lập năm 2022 do doanh nghiệp đăng ký\nvới cơ quan thuế."
+                        },
+                        {
+                            "type": "point",
+                            "title": "c",
+                            "content": "Tên, địa chỉ, mã số thuế của bên nhận ủy nhiệm đối với hóa đơn\nđiện tử ủy nhiệm."
+                        }
+                    ]
+                },
+                {
+                    "type": "clause",
+                    "title": "2",
+                    "content": "Hóa đơn do Cục Thuế đặt in",
+                    "children": [
+                        {
+                            "type": "point",
+                            "title": "a",
+                            "content": "Ký hiệu mẫu số hóa đơn do Cục Thuế đặt in là một\nnhóm gồm 11 ký tự thể hiện các\nthông tin về: tên loại hóa đơn, số liên, số thứ tự mẫu trong một loại hóa\nđơn (một loại hóa đơn có thể có nhiều mẫu), cụ thể\nnhư sau:\n- Sáu (06) ký tự đầu tiên thể hiện tên loại hóa đơn:\n+\n01GTKT: Hóa đơn giá trị gia tăng;\n+\n02GTTT: Hóa đơn bán hàng;\n+\n07KPTQ: Hóa đơn bán hàng dành cho tổ chức, cá nhân trong khu phi thuế quan;\n+\n03XKNB: Phiếu xuất kho kiêm vận chuyển nội bộ;\n+\n04HGDL: Phiếu xuất kho hàng gửi bán đại lý.\n- Một (01) ký tự tiếp theo là các số tự nhiên 1, 2, 3 thể hiện số\nliên hóa đơn;\n- Một (01) ký tự tiếp theo là “/” để phân cách;\n- Ba (03) ký tự tiếp theo là số thứ tự của mẫu trong một loại hóa\nđơn, bắt đầu bằng 001 và tối đa đến 999."
+                        },
+                        {
+                            "type": "point",
+                            "title": "b",
+                            "content": "Ký hiệu hóa đơn do Cục Thuế đặt in là một nhóm gồm 08 ký tự thể hiện thông tin\nvề: Cục Thuế đặt in hóa đơn; năm đặt in hóa đơn; ký hiệu hóa đơn do cơ quan thuế\ntự xác định căn cứ theo nhu cầu quản lý, cụ thể như sau:\n- Hai (02) ký tự đầu tiên thể hiện mã của Cục Thuế đặt in hóa đơn\nvà được xác định theo Phụ lục I.A ban hành kèm theo\nThông tư này;\n- Hai (02) ký tự tiếp theo là hai chữ cái trong 20 chữ cái in hoa\ncủa bảng chữ cái Việt Nam gồm: A, B, C, D, E, G, H, K, L, M, N, P, Q, R, S, T,\nU, V, X, Y thể hiện ký hiệu hóa đơn do cơ quan thuế tự xác định căn cứ theo\nnhu cầu quản lý;\n- Một (01) ký tự tiếp theo là “/” để phân cách;\n- Ba (03) ký tự tiếp theo gồm hai (02) ký tự đầu là hai chữ số Ả\nrập thể hiện năm Cục Thuế đặt in hóa đơn, được xác định theo 02 chữ số cuối của\nnăm dương lịch và một (01) ký tự là chữ cái P thể hiện hóa đơn do Cục Thuế đặt\nin. Ví dụ: Năm Cục Thuế đặt in là năm 2022 thì thể hiện là số 22P;\nnăm Cục Thuế đặt in hóa đơn là năm 2023 thì thể hiện là số 23P;\n- Ví dụ thể hiện các ký tự của ký hiệu mẫu hóa đơn do Cục Thuế đặt\nin và ký hiệu hóa đơn do Cục Thuế đặt in:\nKý hiệu mẫu hóa đơn “01GTKT3/001”, Ký hiệu hóa đơn “01AA/22P”:\nđược hiểu là mẫu số 001 của hóa đơn giá trị gia tăng có 3 liên do Cục Thuế\nthành phố Hà Nội đặt in năm 2022."
+                        },
+                        {
+                            "type": "point",
+                            "title": "c",
+                            "content": "Liên hóa đơn do Cục Thuế đặt in là các tờ\ntrong cùng một số hóa đơn. Mỗi số hóa đơn có 3 liên trong đó:\n- Liên 1: Lưu;\n- Liên 2:\nGiao cho người mua;\n- Liên 3: Nội bộ."
+                        },
+                        {
+                            "type": "point",
+                            "title": "d",
+                            "content": "Ký hiệu mẫu số hóa đơn là tem, vé, thẻ do Cục Thuế đặt in gồm 03\nký tự để phân biệt tem, vé, thẻ thuộc loại hóa đơn giá trị gia tăng hay hóa đơn\nbán hàng như sau:\n-\nKý hiệu 01/: đối với tem, vé, thẻ thuộc loại hóa đơn GTGT;\n-\nKý hiệu 02/: đối với tem, vé, thẻ thuộc loại hóa đơn bán hàng."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "article",
+            "title": "Điều 5. Chuyển đổi áp dụng hóa đơn điện tử có mã của cơ quan thuế",
+            "children": [
+                {
+                    "type": "clause",
+                    "title": "1",
+                    "content": "Người nộp thuế đang sử dụng hóa đơn điện tử không có mã nếu có\nnhu cầu chuyển đổi áp dụng hóa đơn điện tử có mã của cơ quan thuế thì thực hiện\nthay đổi thông tin sử dụng hóa đơn điện tử theo quy định tại Điều\n15 Nghị định số 123/2020/NĐ-CP."
+                },
+                {
+                    "type": "clause",
+                    "title": "2",
+                    "content": "Người nộp thuế thuộc đối tượng sử dụng hóa đơn điện tử không có\nmã theo quy định tại khoản 2 Điều 91 Luật Quản lý thuế nếu\nthuộc trường hợp được xác định rủi ro cao về thuế theo quy định tại Thông tư\nsố 31/2021/TT-BTC ngày 17/5/2021 của Bộ Tài\nchính quy định về áp dụng rủi ro trong quản lý thuế và được cơ quan thuế thông\nbáo (Mẫu số 01/TB-KTT Phụ lục\nIB ban hành kèm theo Nghị định số 123/2020/NĐ-CP)\nvề việc chuyển đổi áp dụng hóa đơn điện tử có mã của cơ quan thuế thì phải\nchuyển đổi sang áp dụng hóa đơn điện tử có mã của cơ quan thuế. Trong\nthời gian mười (10) ngày làm việc kể từ ngày cơ quan thuế phát hành thông báo,\nngười nộp thuế phải thay đổi thông tin sử dụng hóa đơn điện tử (chuyển từ sử\ndụng hóa đơn điện tử không có mã sang hóa đơn điện tử có mã của cơ quan thuế)\ntheo quy định tại Điều 15 Nghị định số 123/2020/NĐ-CP và\nthực hiện theo thông báo của cơ quan thuế. Sau 12 tháng kể từ thời điểm chuyển\nsang sử dụng hóa đơn điện tử có mã của cơ quan thuế, nếu người nộp thuế có nhu\ncầu sử dụng hóa đơn điện tử không có mã thì người nộp thuế thay đổi thông tin\nsử dụng hóa đơn điện tử theo quy định tại Điều 15 Nghị định số\n123/2020/NĐ-CP, cơ quan thuế căn cứ quy định tại khoản 2 Điều\n91 Luật Quản lý thuế và quy định tại Thông tư số 31/2021/TT-BTC để xem xét, quyết định."
+                }
+            ]
+        },
+        {
+            "type": "article",
+            "title": "Điều 6. Áp dụng hóa đơn điện tử đối với một số trường hợp khác",
+            "children": [
+                {
+                    "type": "clause",
+                    "title": "1",
+                    "content": "Chuyển dữ liệu hóa đơn điện tử không có mã đã lập đến cơ quan thuế đối với\ntrường hợp quy định tại điểm a.2 khoản 3 Điều 22 Nghị định số\n123/2020/NĐ-CP thực hiện như sau: Người bán sau khi lập đầy đủ các nội dung\nhóa đơn gửi hóa đơn điện tử cho người mua và đồng thời gửi hóa đơn điện tử cho\ncơ quan thuế, chậm nhất là trong cùng ngày gửi cho người mua."
+                },
+                {
+                    "type": "clause",
+                    "title": "2",
+                    "content": "Hộ kinh doanh, cá nhân kinh doanh\nsử dụng hóa đơn điện tử bao gồm:",
+                    "children": [
+                        {
+                            "type": "point",
+                            "title": "a",
+                            "content": "Hộ kinh doanh, cá nhân kinh doanh\nnộp thuế theo phương pháp kê khai phải sử dụng hóa đơn điện tử;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "b",
+                            "content": "Hộ kinh\ndoanh, cá nhân kinh doanh nộp thuế theo phương pháp khoán nếu có yêu cầu sử\ndụng hóa đơn thì cơ quan thuế cấp lẻ hóa đơn điện tử theo từng lần phát sinh;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "c",
+                            "content": "Hộ kinh doanh, cá nhân kinh doanh khai thuế theo từng lần phát\nsinh nếu có yêu cầu sử dụng hóa đơn thì cơ quan thuế cấp lẻ hóa đơn điện tử theo\ntừng lần phát sinh."
+                        }
+                    ]
+                },
+                {
+                    "type": "clause",
+                    "title": "3",
+                    "content": "Trường hợp cung cấp dịch vụ ngân hàng ngày lập hóa đơn thực\nhiện định kỳ theo hợp đồng giữa hai bên kèm bảng kê hoặc chứng từ khác có xác\nnhận của hai bên, nhưng chậm nhất là ngày cuối cùng của tháng phát sinh hoạt\nđộng cung cấp dịch vụ;\nTrường\nhợp cung cấp dịch vụ ngân hàng với số lượng lớn, phát sinh thường xuyên, cần có\nthời gian đối soát dữ liệu giữa ngân hàng và các bên thứ ba có liên quan (tổ\nchức thanh toán, tổ chức thẻ quốc tế hoặc các tổ chức khác), thời điểm lập hóa\nđơn là thời điểm hoàn thành việc đối soát dữ liệu giữa các bên nhưng chậm nhất\nkhông quá ngày 10 của tháng sau tháng phát sinh."
+                },
+                {
+                    "type": "clause",
+                    "title": "4",
+                    "content": "Trường hợp bán xăng dầu cho khách hàng thì người\nbán chuyển dữ liệu hóa đơn bán xăng dầu trong ngày theo quy định tại điểm a.1 khoản 3 Điều 22 Nghị định số 123/2020/NĐ-CP. Trường\nhợp người bán và người mua có thỏa thuận để tạo thuận lợi cho việc lưu thông\nhàng hóa hoặc tra cứu dữ liệu thì người bán sau khi lập hóa đơn điện tử đầy đủ\ncác nội dung trên hóa đơn gửi người mua đồng thời gửi hóa đơn cho cơ quan thuế\ntheo quy định tại điểm a.2 khoản 3 Điều 22 Nghị định số\n123/2020/NĐ-CP."
+                }
+            ]
+        },
+        {
+            "type": "article",
+            "title": "Điều 7. Xử lý hóa đơn điện tử, bảng tổng hợp dữ liệu hóa đơn điện tử đã gửi cơ quan thuế có sai sót trong một số trường hợp",
+            "children": [
+                {
+                    "type": "clause",
+                    "title": "1",
+                    "content": "Đối với hóa đơn điện tử:",
+                    "children": [
+                        {
+                            "type": "point",
+                            "title": "a",
+                            "content": "Trường hợp hóa đơn điện tử đã lập có sai sót phải cấp lại mã của cơ quan thuế\nhoặc hóa đơn điện tử có sai sót cần xử lý theo hình thức điều\nchỉnh hoặc thay thế theo quy định tại Điều 19 Nghị định số\n123/2020/NĐ-CP thì người bán được lựa chọn sử dụng Mẫu số 04/SS-HĐĐT tại Phụ lục IA\nban hành kèm theo Nghị định số 123/2020/NĐ-CP\nđể thông báo việc điều chỉnh cho từng hóa đơn có sai sót hoặc thông báo việc điều\nchỉnh cho nhiều hóa đơn điện tử có sai sót và gửi thông báo theo Mẫu số 04/SS-HĐĐT đến cơ\nquan thuế bất cứ thời gian nào nhưng chậm nhất là ngày cuối cùng của kỳ kê khai\nthuế giá trị gia tăng phát sinh hóa đơn điện tử điều chỉnh;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "b",
+                            "content": "Trường hợp người bán lập hóa đơn khi thu tiền trước hoặc trong\nkhi cung cấp dịch vụ theo quy định tại Khoản 2 Điều\n9 Nghị định số 123/2020/NĐ-CP sau đó có phát sinh việc hủy hoặc chấm dứt\nviệc cung cấp dịch vụ thì người bán thực hiện hủy hóa đơn điện tử đã lập và\nthông báo với cơ quan thuế về việc hủy hóa đơn theo Mẫu\nsố 04/SS-HĐĐT tại Phụ lục IA ban hành kèm\ntheo Nghị định số 123/2020/NĐ-CP;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "c",
+                            "content": "Trường hợp hóa đơn điện tử đã lập có sai sót và người bán đã xử\nlý theo hình thức điều\nchỉnh hoặc thay thế theo quy định tại điểm b khoản 2 Điều 19 Nghị định số 123/2020/NĐ-CP,\nsau đó lại phát hiện hóa đơn tiếp tục có sai sót thì các lần xử lý\ntiếp theo\nngười bán\nsẽ thực hiện theo hình thức đã áp dụng khi xử lý sai sót lần đầu;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "d",
+                            "content": "Theo thời hạn thông báo ghi trên Mẫu số 01/TB-RSĐT Phụ lục IB\nkèm theo Nghị định số 123/2020/NĐ-CP,\nngười bán thực hiện thông báo với cơ quan thuế theo Mẫu số 04/SS-HĐĐT tại Phụ lục IA\nban hành kèm theo Nghị định số 123/2020/NĐ-CP\nvề việc kiểm tra hóa đơn điện tử đã lập có sai sót, trong đó ghi rõ căn cứ kiểm\ntra là thông báo Mẫu số\n01/TB-RSĐT của cơ quan thuế (bao gồm thông tin số và ngày thông báo);"
+                        },
+                        {
+                            "type": "point",
+                            "title": "đ",
+                            "content": "Trường hợp theo quy định hóa đơn điện tử được lập không có ký hiệu mẫu số hóa\nđơn, ký hiệu hóa đơn, số hóa đơn có sai sót thì người bán chỉ thực hiện điều\nchỉnh mà không thực hiện hủy hoặc thay thế;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "e",
+                            "content": "Riêng\nđối với nội dung về giá trị trên hóa đơn có sai sót thì: điều chỉnh tăng (ghi\ndấu dương), điều chỉnh giảm (ghi dấu âm) đúng với thực tế điều chỉnh."
+                        }
+                    ]
+                },
+                {
+                    "type": "clause",
+                    "title": "2",
+                    "content": "Đối với bảng tổng hợp dữ liệu hóa đơn điện tử:",
+                    "children": [
+                        {
+                            "type": "point",
+                            "title": "a",
+                            "content": "Sau thời hạn chuyển bảng tổng hợp dữ liệu hóa đơn điện tử đến cơ quan thuế,\ntrường hợp thiếu dữ liệu hóa đơn điện tử tại bảng tổng hợp dữ liệu hóa đơn điện\ntử đã gửi cơ quan thuế thì người bán gửi bảng tổng hợp dữ liệu hóa đơn điện tử\nbổ sung;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "b",
+                            "content": "Trường hợp bảng tổng hợp dữ liệu\nhóa đơn điện tử đã gửi cơ quan thuế có sai sót thì người bán gửi thông tin điều\nchỉnh cho các thông tin đã kê khai trên bảng tổng hợp;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "c",
+                            "content": "Việc điều chỉnh hóa đơn trên bảng tổng hợp dữ liệu hóa đơn điện tử theo quy\nđịnh tại điểm a.1 khoản 3 Điều 22 Nghị định số 123/2020/NĐ-CP\nthì phải điền đủ các thông tin: ký hiệu mẫu số hóa đơn, ký hiệu hóa đơn, số hóa\nđơn vào cột 14 “thông tin hóa đơn liên quan” tại Mẫu 01/TH-HĐĐT ban hành kèm theo\nNghị định số 123/2020/NĐ-CP (trừ trường\nhợp hóa đơn điện tử không nhất thiết phải có đầy đủ các thông tin ký hiệu mẫu\nsố hóa đơn, ký hiệu hóa đơn, số hóa đơn theo quy định tại khoản\n14 Điều 10 Nghị định số 123/2020/NĐ-CP)."
+                        }
+                    ]
+                },
+                {
+                    "type": "clause",
+                    "title": "3",
+                    "content": "Việc khai bổ\nsung hồ sơ khai thuế liên quan các hóa đơn điện tử điều chỉnh,\nthay thế (bao gồm cả hóa đơn điện tử bị hủy) thực hiện theo quy định của pháp\nluật quản lý thuế."
+                }
+            ]
+        },
+        {
+            "type": "article",
+            "title": "Điều 8. Hóa đơn điện tử có mã của cơ quan thuế được khởi tạo từ máy tính tiền có kết nối chuyển dữ liệu điện tử với cơ quan thuế",
+            "children": [
+                {
+                    "type": "clause",
+                    "title": "1",
+                    "content": "Hóa đơn điện tử có mã của cơ quan\nthuế được khởi tạo từ máy tính tiền có kết nối chuyển dữ liệu điện tử với cơ\nquan thuế đảm bảo nguyên tắc quy định tại Điều 11 Nghị định số\n123/2020/NĐ-CP."
+                },
+                {
+                    "type": "clause",
+                    "title": "2",
+                    "content": "Doanh\nnghiệp, hộ, cá nhân kinh doanh nộp thuế theo phương pháp kê khai có hoạt động\ncung cấp hàng hóa, dịch vụ trực tiếp đến người tiêu dùng theo mô hình kinh\ndoanh (trung tâm thương mại; siêu thị; bán lẻ hàng tiêu dùng; ăn uống; nhà\nhàng; khách sạn; bán lẻ thuốc tân dược; dịch vụ vui chơi, giải trí và các dịch\nvụ khác) được lựa chọn sử dụng hóa đơn điện tử được khởi tạo từ máy tính tiền\ncó kết nối chuyển dữ liệu điện tử với cơ quan thuế hoặc hóa đơn điện tử có mã,\nhóa đơn điện tử không có mã."
+                },
+                {
+                    "type": "clause",
+                    "title": "3",
+                    "content": "Hóa đơn điện tử có mã của cơ quan thuế được khởi tạo từ máy tính tiền có kết\nnối chuyển dữ liệu điện tử với cơ quan thuế có các nội dung sau đây:",
+                    "children": [
+                        {
+                            "type": "point",
+                            "title": "a",
+                            "content": "Tên, địa\nchỉ, mã số thuế người bán;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "b",
+                            "content": "Thông tin\nngười mua nếu người mua yêu cầu (mã số định danh cá nhân hoặc mã số thuế);"
+                        },
+                        {
+                            "type": "point",
+                            "title": "c",
+                            "content": "Tên hàng\nhóa, dịch vụ, đơn giá, số lượng, giá thanh toán. Trường hợp tổ chức, doanh\nnghiệp nộp thuế theo phương pháp khấu trừ phải ghi rõ giá bán chưa thuế GTGT,\nthuế suất thuế GTGT, tiền thuế GTGT, tổng tiền thanh toán có thuế GTGT;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "d",
+                            "content": "Thời điểm\nlập hóa đơn;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "đ",
+                            "content": "Mã của\ncơ quan thuế."
+                        }
+                    ]
+                },
+                {
+                    "type": "clause",
+                    "title": "4",
+                    "content": "Giải\npháp cấp mã của cơ quan thuế trên hóa đơn điện tử được khởi tạo từ máy tính\ntiền có kết nối chuyển dữ liệu điện tử với cơ quan thuế: Mã của cơ quan thuế được\ncấp tự động, theo dải ký tự cho từng cơ sở kinh doanh nêu tại khoản 2 Điều này\nkhi đăng ký sử dụng hóa đơn điện tử có mã của cơ quan thuế được khởi tạo từ máy\ntính tiền có kết nối chuyển dữ liệu điện tử với cơ quan thuế và đảm bảo không\ntrùng lắp."
+                },
+                {
+                    "type": "clause",
+                    "title": "5",
+                    "content": "Trách\nnhiệm của Tổng cục Thuế",
+                    "children": [
+                        {
+                            "type": "point",
+                            "title": "a",
+                            "content": "Xây dựng, công bố thành phần dữ\nliệu hóa đơn điện tử có mã của cơ quan thuế được khởi tạo từ máy tính tiền có\nkết nối chuyển dữ liệu điện tử với cơ quan thuế, phương thức truyền, nhận với\ncơ quan thuế theo quy định tại Điều 12 Nghị định số\n123/2020/NĐ-CP và hướng dẫn người nộp thuế kết nối, chuyển dữ liệu hóa đơn\nđiện tử đến cơ quan thuế;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "b",
+                            "content": "Chỉ đạo Cục Thuế các tỉnh, thành\nphố trực thuộc Trung ương căn cứ đối tượng thực tế trên địa bàn chủ trì phối\nhợp với các đơn vị liên quan xây dựng đề án triển khai kết nối thông tin từ máy\ntính tiền để quản lý doanh thu bán lẻ của các hộ, cá nhân kinh doanh để báo cáo\nTổng cục Thuế trình Bộ Tài chính phê duyệt sau khi thống nhất với Ủy ban nhân\ndân các tỉnh, thành phố để triển khai thực hiện;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "c",
+                            "content": "Xây dựng lộ trình triển khai áp\ndụng hóa đơn điện tử có mã của cơ quan thuế được khởi tạo từ máy tính tiền có\nkết nối chuyển dữ liệu điện tử với cơ quan thuế theo quy định tại Điều này;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "d",
+                            "content": "Hướng dẫn\ntriển khai việc sử dụng mã của cơ quan thuế cấp đối với những hóa đơn điện tử\ncó mã của của cơ quan thuế được khởi tạo từ máy tính tiền có kết nối chuyển dữ\nliệu điện tử với cơ quan thuế để tham gia dự thưởng."
+                        }
+                    ]
+                },
+                {
+                    "type": "clause",
+                    "title": "6",
+                    "content": "Trách nhiệm của người bán khi sử\ndụng hóa đơn điện tử có mã của cơ quan thuế được khởi tạo từ máy tính tiền có\nkết nối chuyển dữ liệu điện tử với cơ quan thuế:",
+                    "children": [
+                        {
+                            "type": "point",
+                            "title": "a",
+                            "content": "Đăng ký sử dụng hóa đơn điện tử có\nmã của cơ quan thuế được khởi tạo từ máy tính tiền có kết nối chuyển dữ liệu\nđiện tử với cơ quan thuế theo quy định tại Điều 15 Nghị định số\n123/2020/NĐ-CP;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "b",
+                            "content": "Lập hóa đơn điện tử có mã của cơ\nquan thuế được khởi tạo từ máy tính tiền theo quy định tại Điều\n11 Nghị định số 123/2020/NĐ-CP và Điều này;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "c",
+                            "content": "Có trách nhiệm sử dụng dải ký tự mã\ncủa cơ quan thuế cấp khi lập hóa đơn điện tử có mã của cơ quan thuế được khởi\ntạo từ máy tính tiền có kết nối chuyển dữ liệu điện tử với cơ quan thuế để đảm\nbảo liên tục và duy nhất;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "d",
+                            "content": "Chuyển dữ liệu hóa đơn điện tử có\nmã của cơ quan thuế đã khởi tạo từ máy tính tiền cho cơ quan thuế ngay trong\nngày thông qua tổ chức cung cấp dịch vụ nhận, truyền, lưu trữ dữ liệu điện tử."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "article",
+            "title": "Điều 9. Sử dụng biên lai, chứng từ",
+            "children": [
+                {
+                    "type": "clause",
+                    "title": "1",
+                    "content": "Cục Thuế in, khởi tạo và phát hành\nbiên lai thuế Mẫu CTT50 Phụ lục I.C ban hành kèm\ntheo Thông tư này theo hình thức đặt in, tự in, điện tử để sử dụng thu thuế,\nphí, lệ phí đối với hộ, cá nhân kinh doanh tại địa bàn đáp ứng điều kiện sử\ndụng biên lai và thu nợ đối với hộ khoán, thu thuế sử dụng đất nông nghiệp, phi\nnông nghiệp đối với hộ gia đình, cá nhân."
+                },
+                {
+                    "type": "clause",
+                    "title": "2",
+                    "content": "Tiêu chí xác định địa bàn đáp ứng điều\nkiện sử dụng biên lai thuế: Căn cứ tình hình thực tế quản lý tại địa bàn Chi\ncục Thuế, Chi cục Thuế khu vực có trách nhiệm xác định và cập nhật Danh sách\nđịa bàn đáp ứng điều kiện sử dụng biên lai thuế trình Cục Thuế phê duyệt. Những\nđịa bàn được sử dụng biên lai thuế là địa bàn đáp ứng đồng thời 03 điều kiện:\nkhông có điểm thu, chưa thực hiện ủy nhiệm thu thuế và thuộc địa bàn khó khăn,\nđặc biệt khó khăn theo quy định về đơn vị hành chính cấp xã thuộc vùng khó\nkhăn."
+                },
+                {
+                    "type": "clause",
+                    "title": "3",
+                    "content": "Trong quá\ntrình quản lý thuế, phí, lệ phí theo quy định của Luật Quản lý thuế, trường hợp\ntổ chức có nhu cầu sử dụng các loại chứng từ khác theo quy định\ntại khoản 2 Điều 30 Nghị định số 123/2020/NĐ-CP thì tổ chức\ncó văn bản gửi Bộ Tài chính (Tổng cục Thuế) để\nđược chấp thuận, thực hiện."
+                },
+                {
+                    "type": "clause",
+                    "title": "4",
+                    "content": "Đối với tổ chức thu phí, lệ phí sử dụng biên lai điện tử\ntrong\ntrường hợp cần điều chỉnh một số tiêu thức nội dung trên biên lai theo quy định\ntại khoản 2 Điều 32 Nghị định số 123/2020/NĐ-CP thì tổ chức\ncó văn bản gửi Bộ Tài chính (Tổng cục\nThuế) để được chấp thuận, thực hiện."
+                }
+            ]
+        },
+        {
+            "type": "article",
+            "title": "Điều 10. Tiêu chí đối với tổ chức cung cấp dịch vụ về hóa đơn điện tử để ký hợp đồng cung cấp dịch vụ hóa đơn điện tử có mã của cơ quan thuế và dịch vụ nhận, truyền, lưu trữ dữ liệu hóa đơn và các dịch vụ khác có liên quan",
+            "children": [
+                {
+                    "type": "clause",
+                    "title": "1",
+                    "content": "Tiêu chí đối với tổ chức cung\ncấp giải pháp hóa đơn điện tử có mã của cơ quan thuế và không có mã cho người\nbán và người mua",
+                    "children": [
+                        {
+                            "type": "point",
+                            "title": "a",
+                            "content": "Về chủ thể:\n-\nLà tổ chức hoạt động trong lĩnh vực công nghệ thông tin được thành lập theo\npháp luật Việt Nam;\n-\nThông tin về dịch vụ hóa đơn điện tử được công khai trên trang thông tin điện\ntử của tổ chức;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "b",
+                            "content": "Về\nnhân sự: Có tối thiểu 5 nhân sự trình độ đại học chuyên ngành về công\nnghệ thông tin;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "c",
+                            "content": "Về kỹ\nthuật: Có hạ tầng kỹ thuật, thiết bị công nghệ thông tin, hệ thống phần mềm đáp\nứng yêu cầu:\n-\nCung cấp giải pháp khởi tạo, xử lý, lưu trữ dữ liệu hóa đơn điện tử có mã của\ncơ quan thuế và hóa đơn điện tử không có mã cho người bán và người mua theo quy\nđịnh của pháp luật về hóa đơn điện tử và pháp luật khác có liên quan;\n-\nCó giải pháp nhận, truyền dữ liệu hóa đơn điện tử với người sử dụng dịch vụ;\ngiải pháp truyền, nhận dữ liệu hóa đơn điện tử với cơ quan thuế thông qua tổ\nchức nhận, truyền, lưu trữ dữ liệu hóa đơn điện tử. Thông tin quá trình nhận,\ntruyền dữ liệu phải được ghi nhật ký để phục vụ công tác đối soát;\n-\nCó giải pháp sao lưu, khôi phục, bảo mật dữ liệu hóa đơn điện tử;\n-\nCó tài liệu kết quả kiểm thử kỹ thuật thành công về giải pháp truyền nhận dữ\nliệu hóa đơn điện tử với tổ chức cung cấp dịch vụ nhận, truyền, lưu trữ dữ liệu\nhóa đơn điện tử."
+                        }
+                    ]
+                },
+                {
+                    "type": "clause",
+                    "title": "2",
+                    "content": "Tiêu\nchí đối với tổ chức cung cấp dịch vụ nhận, truyền, lưu trữ dữ liệu hóa đơn\nđiện tử",
+                    "children": [
+                        {
+                            "type": "point",
+                            "title": "a",
+                            "content": "Về chủ thể:\n-\nLà tổ chức được thành lập theo pháp luật Việt Nam, có tối thiểu 05 năm hoạt\nđộng trong lĩnh vực công nghệ thông tin;\n-\nThông tin về dịch vụ hóa đơn điện tử được công khai trên trang thông tin điện\ntử của tổ chức;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "b",
+                            "content": "Về tài\nchính: Có\nký quỹ tại một ngân hàng hoạt động hợp pháp tại Việt Nam\nhoặc có giấy bảo lãnh của một ngân hàng hoạt động hợp pháp tại Việt Nam với giá\ntrị\nkhông dưới 5 tỷ đồng để giải quyết các rủi ro và bồi\nthường thiệt hại có thể xảy ra trong quá trình cung cấp dịch\nvụ;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "c",
+                            "content": "Về\nnhân sự: Có tối thiểu 20 nhân sự trình độ đại học chuyên ngành\nvề công nghệ thông tin;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "d",
+                            "content": "Về kỹ\nthuật: Có hạ tầng kỹ thuật, thiết bị công nghệ thông tin, hệ thống phần mềm đáp\nứng yêu cầu:\n-\nCung cấp giải pháp khởi tạo, xử lý, lưu trữ dữ liệu hóa đơn điện tử có mã của\ncơ quan thuế theo quy định của pháp luật về hóa đơn điện tử và pháp luật khác\ncó liên quan;\n-\nCó giải pháp kết nối, nhận, truyền, lưu trữ dữ liệu hóa đơn điện tử với tổ chức\ncung cấp dịch vụ hóa đơn điện tử có mã của cơ quan thuế và không có mã cho\nngười bán và người mua; giải pháp kết nối nhận, truyền, lưu trữ dữ liệu hóa đơn\nđiện tử với cơ quan thuế. Thông tin quá trình nhận, truyền dữ liệu phải được ghi\nnhật ký để phục vụ công tác đối soát;\n-\nHệ thống hạ tầng kỹ thuật cung cấp dịch vụ hóa đơn điện tử được vận hành trên\nmôi trường trung tâm dữ liệu chính và trung tâm dữ liệu dự phòng. Trung tâm dự\nphòng cách xa trung tâm dữ liệu chính tối thiểu 20km và sẵn sàng hoạt động khi\nhệ thống chính gặp sự cố;\n-\nHệ thống có khả năng phát hiện, cảnh báo, ngăn chặn các truy cập không hợp\npháp, các hình thức tấn công trên môi trường mạng để bảo đảm tính bảo mật, toàn\nvẹn của dữ liệu trao đổi giữa các bên tham gia;\n-\nCó hệ thống sao lưu, khôi phục dữ liệu;\n-\nKết nối với Tổng cục Thuế thông qua kênh thuê riêng hoặc kênh MPLS VPN Layer 3\nhoặc tương đương, gồm 1 kênh truyền chính và 2 kênh truyền dự phòng. Mỗi kênh\ntruyền có băng thông tối thiểu 20 Mbps; sử dụng dịch vụ Web (Web Service) hoặc\nhàng đợi (Queue) có mã hóa làm phương thức để kết nối; sử dụng giao thức\nSOAP/TCP để đóng gói và truyền nhận dữ liệu."
+                        }
+                    ]
+                },
+                {
+                    "type": "clause",
+                    "title": "3",
+                    "content": "Tổng\ncục Thuế đăng tải thông tin của tổ chức cung cấp giải pháp hóa đơn điện tử và lựa\nchọn tổ chức cung cấp dịch vụ về hóa đơn điện tử để ký hợp đồng cung cấp dịch\nvụ nhận, truyền, lưu trữ dữ liệu hóa đơn với cơ quan thuế.",
+                    "children": [
+                        {
+                            "type": "point",
+                            "title": "a",
+                            "content": "Đăng tải\ncông khai thông tin của tổ chức cung cấp giải pháp hóa đơn điện tử lên Cổng\nthông tin điện tử của Tổng cục Thuế: Tổ chức cung cấp giải pháp hóa đơn điện tử\ngửi hồ sơ chứng minh đáp ứng các tiêu chí tại khoản 1 Điều này, tài liệu mô tả\ndịch vụ và cam kết thực hiện đến Tổng cục Thuế. Trong vòng 10 ngày kể từ ngày\nnhận được hồ sơ, Tổng cục Thuế đăng công khai tài liệu mô tả dịch vụ và cam kết\ncủa tổ chức lên Cổng thông tin điện tử của Tổng cục Thuế. Các tổ chức phải chịu\ntrách nhiệm về hồ sơ văn bản cung cấp. Trong quá trình hoạt động, trường hợp\nphát hiện tổ chức cung cấp dịch vụ không đúng quy định, Tổng cục Thuế thông báo\nvà hủy thông tin công khai của tổ chức trên Cổng thông tin điện tử của Tổng cục\nThuế."
+                        },
+                        {
+                            "type": "point",
+                            "title": "b",
+                            "content": "Lựa chọn tổ\nchức cung cấp dịch vụ về hóa đơn điện tử để ký hợp đồng cung cấp dịch vụ nhận,\ntruyền, lưu trữ dữ liệu hóa đơn với cơ quan thuế\n-\nTổ chức đáp ứng đầy đủ các điều kiện quy định tại khoản 2 Điều này gửi văn bản\nđề nghị ký hợp đồng cung cấp dịch vụ nhận, truyền, lưu trữ dữ liệu hóa đơn kèm\ntheo hồ sơ chứng minh tới Tổng cục Thuế. Trong thời hạn 10 ngày làm việc kể từ\nngày tổ chức cung cấp đầy đủ hồ sơ chứng minh, Tổng cục Thuế phối hợp với tổ\nchức thực hiện kết nối kỹ thuật và kiểm tra truyền nhận dữ liệu giữa hai bên.\nSau khi kết nối thành công, Tổng cục Thuế và tổ chức ký hợp đồng cung cấp dịch\nvụ nhận, truyền, lưu trữ dữ liệu hóa đơn với cơ quan thuế. Thông tin về tổ chức\ncung cấp dịch vụ nhận, truyền, lưu trữ dữ liệu hóa đơn của cơ quan thuế sẽ được\ncông khai trên Cổng thông tin điện tử của Tổng cục Thuế.\n-\nTrong quá trình thực hiện hợp đồng, Tổng cục Thuế và tổ chức cung cấp dịch vụ\nhóa đơn điện tử thống nhất các nội dung về ủy quyền cấp mã trong trường hợp\nhệ thống cấp mã của cơ quan thuế gặp sự cố hoặc ủy thác thực\nhiện cung cấp hóa đơn điện tử có mã của cơ quan thuế không phải trả tiền dịch\nvụ cho các đối tượng quy định tại khoản 1 Điều 14 Nghị định số\n123/2020/NĐ-CP."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "article",
+            "title": "Điều 11. Hiệu lực thi hành",
+            "children": [
+                {
+                    "type": "clause",
+                    "title": "1",
+                    "content": "Thông tư\nnày có hiệu lực thi hành kể từ ngày 01 tháng 7 năm 2022, khuyến khích cơ quan,\ntổ chức, cá nhân đáp ứng điều kiện về hạ tầng công nghệ thông tin áp dụng quy\nđịnh về hóa đơn, chứng từ điện tử theo hướng dẫn tại Thông tư này và của Nghị\nđịnh số 123/2020/NĐ-CP trước ngày 01 tháng\n7 năm 2022."
+                },
+                {
+                    "type": "clause",
+                    "title": "2",
+                    "content": "Hóa đơn điện tử áp dụng đối với hộ\nkinh doanh, cá nhân kinh doanh kể từ ngày 01 tháng 7 năm 2022. Riêng trường hợp\nquy định tại khoản 1 Điều 14 Nghị định số 123/2020/NĐ-CP không\nthực hiện giao dịch với cơ quan thuế bằng phương tiện điện tử, không có hạ tầng\ncông nghệ thông tin, không có hệ thống phần mềm kế toán, không có phần mềm lập\nhóa đơn điện tử để sử dụng hóa đơn điện tử và để truyền dữ liệu điện tử đến\nngười mua và đến cơ quan thuế thì sử dụng hóa đơn giấy của cơ quan thuế trong\nthời gian tối đa 12 tháng, đồng thời cơ quan thuế có giải pháp chuyển đổi dần\nsang áp dụng hóa đơn điện tử. Thời gian tối đa 12 tháng được tính một lần kể từ\nngày 01 tháng 7 năm 2022 đối với hộ kinh doanh, cá nhân kinh doanh đang hoạt\nđộng từ trước 01 tháng 7 năm 2022; hoặc kể từ thời điểm đăng ký bắt đầu sử dụng\nhóa đơn đối với hộ kinh doanh, cá nhân kinh doanh mới thành lập từ ngày 01\ntháng 7 năm 2022."
+                },
+                {
+                    "type": "clause",
+                    "title": "3",
+                    "content": "Từ ngày\n01 tháng 7 năm 2022, các Thông tư, Quyết định của Bộ Tài chính sau đây hết hiệu\nlực thi hành:",
+                    "children": [
+                        {
+                            "type": "point",
+                            "title": "a",
+                            "content": "Quyết định\nsố 30/2001/QĐ-BTC  ngày 13/4/2001 của Bộ Tài chính về việc ban hành chế độ in,\nphát hành, quản lý, sử dụng ấn chỉ thuế;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "b",
+                            "content": "Thông tư\nsố 191/2010/TT-BTC  ngày 01/12/2010 hướng dẫn việc quản lý, sử dụng hóa đơn vận\ntải;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "c",
+                            "content": "Thông tư\nsố 32/2011/TT-BTC  ngày 14/3/2011 của Bộ Tài chính hướng dẫn về khởi tạo, phát\nhành và sử dụng hóa đơn điện tử bán hàng hóa, cung ứng dịch vụ;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "d",
+                            "content": "Thông tư số 39/2014/TT-BTC  ngày 31/3/2014 của Bộ Tài chính (được sửa đổi, bổ\nsung bởi Thông tư số 119/2014/TT-BTC  ngày 25/8/2014, Thông tư số 26/2015/TT-BTC\nngày 27/02/2015 của Bộ Tài chính);"
+                        },
+                        {
+                            "type": "point",
+                            "title": "đ",
+                            "content": "Quyết định\nsố 1209/QĐ-BTC  ngày 23/6/2015 của Bộ trưởng Bộ Tài chính về việc thí điểm sử\ndụng hóa đơn điện tử có mã xác thực của cơ quan thuế, Quyết định số 526/QĐ-BTC\nngày 16/4/2018 của Bộ trưởng Bộ Tài chính về việc mở rộng phạm vi thí điểm sử\ndụng hóa đơn điện tử có mã xác thực của cơ quan thuế;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "e",
+                            "content": "Quyết định\nsố 2660/QĐ-BTC  ngày 14/12/2016 của Bộ  trưởng Bộ Tài chính về việc gia hạn thực\nhiện Quyết định số 1209/QĐ-BTC  ngày 23/6/2015;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "g",
+                            "content": "Thông tư\nsố 303/2016/TT-BTC  ngày 15/11/2016 của Bộ Tài chính hướng dẫn về in, phát hành,\nquản lý và sử dụng các loại chứng từ thu tiền phí, lệ phí thuộc ngân sách nhà\nnước;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "h",
+                            "content": "Thông tư\nsố 37/2017/TT-BTC  ngày 27/4/2017 của Bộ Tài chính sửa đổi, bổ sung Thông tư số\n39/2014/TT-BTC  ngày 31/3/2014 của Bộ Tài chính (được sửa đổi, bổ sung bởi Thông\ntư số 119/2014/TT-BTC  ngày 25/8/2014, Thông tư số 26/2015/TT-BTC  ngày\n27/02/2015 của Bộ Tài chính);"
+                        },
+                        {
+                            "type": "point",
+                            "title": "i",
+                            "content": "Thông tư\nsố 68/2019/TT-BTC  ngày 30/9/2019 của Bộ Tài chính hướng dẫn thực hiện một số điều\ncủa Nghị định số 119/2018/NĐ-CP  ngày 12/9/2018 của Chính phủ quy định về hóa\nđơn điện tử;"
+                        },
+                        {
+                            "type": "point",
+                            "title": "k",
+                            "content": "Thông tư\nsố 88/2020/TT-BTC  ngày 30/10/2020 sửa đổi, bổ sung Điều 26 Thông tư số\n68/2019/TT-BTC  ngày 30/9/2019 của Bộ Tài chính hướng dẫn thực hiện một số điều\ncủa Nghị định số 119/2018/NĐ-CP  ngày 12/9/2018 của Chính phủ quy định về hóa\nđơn điện tử."
+                        }
+                    ]
+                },
+                {
+                    "type": "clause",
+                    "title": "4",
+                    "content": "Thông tư này gồm 2 Phụ lục: Phụ lục\nI áp dụng cho cơ quan thuế khi đặt in hóa đơn, biên lai; Phụ lục II hướng dẫn mẫu hiển thị một số loại hóa đơn\nđể các tổ chức, doanh nghiệp tham khảo trong quá trình thực hiện."
+                },
+                {
+                    "type": "clause",
+                    "title": "5",
+                    "content": "Lộ trình\ntriển khai hệ thống quản lý hóa đơn điện tử của cơ quan thuế:",
+                    "children": [
+                        {
+                            "type": "point",
+                            "title": "a",
+                            "content": "Tổng cục\nThuế có trách nhiệm đầu tư nâng cấp hạ tầng kỹ thuật hệ thống hóa đơn điện tử\nđể sẵn sàng tiếp nhận đề nghị và kết nối với tất cả các tổ chức cung cấp dịch\nvụ hóa đơn điện tử đáp ứng đầy đủ các tiêu chí theo quy định tại khoản\n2 Điều 10 Thông tư này từ ngày 01 tháng 7 năm 2022. Đối với các tổ chức, cá\nnhân có nhu cầu triển khai hóa đơn điện tử trước ngày 01 tháng 7 năm 2022, Tổng\ncục Thuế có trách nhiệm tận dụng mọi nguồn lực về cơ sở hạ tầng kỹ thuật công\nnghệ thông tin hiện có để triển khai thực hiện. Khuyến khích các tổ chức có\nnăng lực tham gia cung cấp dịch vụ nhận, truyền, lưu trữ dữ liệu hóa đơn điện\ntử với cơ quan thuế."
+                        },
+                        {
+                            "type": "point",
+                            "title": "b",
+                            "content": "Tổng cục\nThuế có trách nhiệm công bố lộ trình, căn cứ lựa chọn tổ chức cung cấp dịch vụ\nhóa đơn điện tử kết nối với cơ quan thuế đảm bảo công khai minh bạch. Trường hợp\nsố lượng tổ chức đáp ứng đầy đủ các tiêu chí quy định tại khoản\n2 Điều 10 Thông tư này và có nhu cầu kết nối với cơ quan thuế vượt quá khả\nnăng đáp ứng của hệ thống, Tổng cục Thuế căn cứ thông tin khách hàng đang sử\ndụng dịch vụ hóa đơn điện tử của tổ chức tính đến ngày 31 tháng 8 năm 2021\n(theo thông tin quản lý của cơ quan thuế) để lựa chọn tổ chức có số lượng khách\nhàng lớn và ký hợp đồng cung cấp dịch vụ nhận, truyền và lưu trữ dữ liệu hóa\nđơn điện tử theo quy định tại khoản 3 Điều 10 Thông tư này."
+                        }
+                    ]
+                },
+                {
+                    "type": "clause",
+                    "title": "6",
+                    "content": "Tổng cục Thuế có trách nhiệm hướng\ndẫn quy trình hủy hóa đơn do Cục Thuế đặt in và xây dựng quy trình hướng dẫn\nviệc quản lý, sử dụng biên lai thuế, phí, lệ phí tại cơ quan thuế các cấp."
+                }
+            ]
+        },
+        {
+            "type": "article",
+            "title": "Điều 12. Xử lý chuyển tiếp",
+            "children": [
+                {
+                    "type": "clause",
+                    "title": "1",
+                    "content": "Doanh\nnghiệp, tổ chức kinh tế đã thông báo phát hành hóa đơn đặt in, hóa đơn tự in,\nhóa đơn điện tử không có mã hoặc đã đăng ký áp dụng hóa đơn điện tử có mã của\ncơ quan thuế, đã mua hóa đơn của cơ quan thuế trước ngày Thông tư này được ban\nhành thì được tiếp tục sử dụng hóa đơn đang sử dụng kể từ ngày Thông tư này được\nban hành đến hết ngày 30 tháng 6 năm 2022 và thực hiện các thủ tục về hóa đơn\ntheo quy định tại Nghị định số 51/2010/NĐ-CP  ngày 14/5/2010 và Nghị định số\n04/2014/NĐ-CP  ngày 17/01/2014 của Chính phủ quy định về hóa đơn\nbán hàng hóa, cung ứng dịch vụ.\nTừ ngày Thông\ntư này được ban hành đến hết ngày 30 tháng 6 năm\n2022,\nđối với các địa bàn đã đáp ứng điều kiện về cơ sở hạ tầng để triển khai hóa đơn\nđiện tử theo Quyết định của Bộ Tài chính trên cơ sở đề nghị của Tổng cục Thuế thì\ncơ sở kinh doanh trên địa bàn có trách nhiệm chuyển đổi để áp dụng hóa đơn điện\ntử quy định tại Thông tư này theo lộ trình thông báo của cơ quan thuế. Trường hợp\ncơ\nsở kinh doanh chưa đáp ứng điều kiện về hạ tầng công nghệ thông tin mà tiếp tục\nsử dụng hóa đơn theo các hình thức nêu trên thì cơ sở kinh doanh thực hiện gửi\ndữ liệu hóa đơn đến cơ quan thuế theo Mẫu số 03/DL-HĐĐT Phụ lục IA\nban hành kèm theo Nghị định số 123/2020/NĐ-CP  cùng với việc nộp tờ khai thuế\ngiá trị gia tăng. Cơ quan thuế tiếp nhận dữ liệu hóa đơn của\ncác cơ sở kinh doanh để đưa vào cơ sở dữ liệu hóa đơn và đăng tải trên Cổng\nthông tin điện tử của Tổng cục Thuế phục vụ việc tra cứu dữ liệu hóa đơn."
+                },
+                {
+                    "type": "clause",
+                    "title": "2",
+                    "content": "Đối với\ncơ sở kinh doanh mới thành lập trong thời gian từ ngày Thông tư này được ban\nhành đến hết\nngày\n30 tháng 6 năm 2022, trường hợp cơ quan thuế thông báo cơ sở kinh doanh thực hiện\náp dụng hóa đơn điện tử theo quy định tại Nghị định số 123/2020/NĐ-CP , Nghị định\nsố 119/2018/NĐ-CP  ngày 12/9/2018, Thông tư số 68/2019/TT-BTC  và Thông tư này thì\ncơ sở kinh doanh thực hiện theo hướng dẫn của cơ quan thuế. Trường hợp chưa đáp\nứng điều kiện về hạ tầng công nghệ thông tin mà tiếp tục sử dụng hóa đơn theo\nquy định tại  Nghị định số 51/2010/NĐ-CP  ngày 14/5/2010 và\nNghị định số 04/2014/NĐ-CP  ngày 17/01/2014 của\nChính phủ quy định về hóa đơn bán hàng hóa, cung ứng dịch vụ thì thực hiện như\ncác cơ sở kinh doanh nêu tại khoản 1 Điều này."
+                },
+                {
+                    "type": "clause",
+                    "title": "3",
+                    "content": "Đối với\nhóa đơn của cơ quan thuế đã đặt in theo quy định tại Nghị định số 51/2010/NĐ-CP\nngày 14/5/2010 và Nghị định số 04/2014/NĐ-CP  ngày 17/01/2014 của Chính phủ quy\nđịnh về hóa đơn bán hàng hóa, cung ứng dịch vụ nếu có ký hiệu hóa đơn, ký hiệu mẫu\nsố hóa đơn giống với hướng dẫn tại Thông tư này và nội dung phù hợp với quy định\ntại Nghị định số 123/2020/NĐ-CP  thì cơ quan thuế được sử dụng hóa đơn đã đặt in\nđể bán cho các đối tượng được mua hóa đơn từ ngày 01 tháng 7 năm 2022 theo\nquy định tại Điều 23 Nghị định số 123/2020/NĐ-CP."
+                },
+                {
+                    "type": "clause",
+                    "title": "4",
+                    "content": "Biên lai thu phí, lệ phí theo Mẫu hướng dẫn tại Thông tư số\n303/2016/TT-BTC ngày 15/11/2016 của Bộ Tài chính hướng\ndẫn việc in, phát hành, quản lý và sử dụng các loại chứng từ thu tiền phí, lệ\nphí thuộc ngân sách nhà nước và biên lai thu thuế được\nin theo Quyết định số 30/2001/QĐ-BTC ngày\n13/4/2001 của Bộ Tài chính về việc ban hành chế độ in, phát hành, quản lý, sử dụng\nấn chỉ thuế  được tiếp tục sử dụng. Trường hợp sử dụng hết biên lai thuế, biên\nlai thu phí, lệ phí theo Mẫu hướng dẫn tại các văn bản nêu trên thì sử dụng Mẫu\ntheo quy định tại Nghị định số 11/2020/NĐ-CP ngày 20/01/2020 của Chính phủ quy định về thủ\ntục hành chính thuộc lĩnh vực kho bạc nhà nước. Trường hợp cơ quan thuế thông\nbáo chuyển đổi để áp dụng biên lai điện tử theo định dạng của cơ quan thuế thì\ntổ chức thực hiện chuyển đổi để áp dụng và thực hiện đăng ký sử dụng, thông báo\nphát hành, báo cáo tình hình sử dụng theo hướng dẫn tại Điều\n34, Điều 36, Điều 38 Nghị định số 123/2020/NĐ-CP."
+                },
+                {
+                    "type": "clause",
+                    "title": "5",
+                    "content": "Việc sử dụng chứng từ khấu trừ thuế thu nhập cá nhân tiếp tục thực hiện theo\nThông tư số 37/2010/TT-BTC ngày 18/3/2010\ncủa Bộ Tài chính hướng dẫn về việc phát hành, sử dụng, quản lý chứng từ khấu trừ\nthuế thu nhập cá nhân tự in trên máy tính (và văn bản sửa đổi, bổ sung) và Quyết\nđịnh số 102/2008/QĐ-BTC ngày 12/11/2008 của\nBộ trưởng Bộ Tài chính về việc ban hành mẫu chứng từ thu thuế thu nhập cá nhân\nđến hết ngày 30 tháng 6 năm 2022. Trường hợp các tổ\nchức khấu trừ thuế thu nhập cá nhân đáp ứng điều kiện về hạ tầng công nghệ\nthông tin được\náp\ndụng hình thức chứng từ điện tử khấu trừ thuế thu nhập cá nhân theo quy định tại\nNghị định số\n123/2020/NĐ-CP trước ngày 01 tháng 7 năm 2022 và\nthực hiện các thủ tục theo hướng dẫn tại Thông tư số 37/2010/TT-BTC ngày 18/3/2010 của Bộ Tài chính."
+                },
+                {
+                    "type": "clause",
+                    "title": "6",
+                    "content": "Kể từ thời điểm doanh nghiệp, tổ chức, hộ, cá nhân kinh doanh sử dụng hóa đơn\nđiện tử theo quy định tại Nghị định số 123/2020/NĐ-CP và quy định tại Thông tư này, nếu phát hiện hóa đơn đã\nlập theo quy định tại Nghị định số 51/2010/NĐ-CP ngày 14/5/2010, Nghị định số 04/2014/NĐ-CP ngày 17/01/2014 của Chính phủ và các văn bản\nhướng dẫn của Bộ Tài chính mà hóa đơn này có sai sót thì người bán và người mua\nphải lập văn bản thỏa thuận ghi rõ sai sót, người bán thực hiện thông báo với\ncơ quan thuế theo Mẫu số\n04/SS-HĐĐT ban hành kèm theo Nghị\nđịnh số 123/2020/NĐ-CP và lập\nhóa đơn hóa đơn điện tử mới (hóa đơn điện tử có mã của cơ quan thuế hoặc hóa\nđơn điện tử không có mã) thay thế cho hóa đơn đã lập có sai sót. Hóa đơn điện\ntử thay thế hóa đơn đã lập có sai sót phải có dòng chữ “Thay thế cho hóa đơn Mẫu\nsố... ký hiệu... số... ngày... tháng... năm”. Người bán ký số trên hóa đơn điện\ntử mới thay thế hóa đơn đã lập có sai sót (hóa đơn lập theo Nghị định số\n51/2010/NĐ-CP , Nghị định số\n04/2014/NĐ-CP  của Chính phủ và các văn bản hướng dẫn của Bộ Tài chính) để gửi\ncho người mua (đối với trường hợp sử dụng hóa đơn điện tử không có mã) hoặc\nngười bán gửi cơ quan thuế để được cấp mã cho hóa đơn điện tử thay thế hóa đơn\nđã lập (đối với trường hợp sử dụng hóa đơn điện tử có mã của cơ quan thuế)."
+                },
+                {
+                    "type": "clause",
+                    "title": "7",
+                    "content": "Trong\nquá trình thực hiện nếu có vướng mắc, đề nghị các tổ chức, cá nhân phản ánh kịp\nthời về Bộ Tài chính để nghiên cứu giải quyết./."
+                }
+            ]
+        }
+    ],
+    "footer": "Nơi nhận: -\nVăn phòng Trung ương và các Ban của Đảng; - Văn phòng Quốc hội; - Văn phòng Chủ tịch nước; - Văn phòng Tổng Bí thư; - Viện Kiểm sát nhân dân tối cao; - Tòa án nhân dân tối cao; - Kiểm toán nhà nước; - Các Bộ, cơ quan ngang Bộ, cơ quan thuộc Chính phủ; - Cơ quan Trung ương của các đoàn thể; - Hội đồng nhân dân, Ủy ban nhân dân, Sở Tài chính, Cục Thuế, Kho bạc nhà nước các tỉnh, thành phố trực thuộc Trung ương; - Công báo; - Cục Kiểm tra văn bản (Bộ Tư pháp); - Cổng thông tin điện tử Chính phủ; - Cổng thông tin điện tử Bộ Tài chính, Tổng cục Thuế; - Các đơn vị thuộc Bộ Tài chính; - Lưu: VT, TCT (VT, CS). | KT. BỘ\nTRƯỞNG THỨ TRƯỞNG Trần Xuân Hà |",
+    "appendices": [
+        {
+            "type": "appendix",
+            "title": "PHỤ LỤC I",
+            "content": "ÁP DỤNG CHO CƠ QUAN THUẾ KHI\nĐẶT IN HÓA ĐƠN, BIÊN LAI\n(Ban hành kèm theo Thông tư số 78/2021/TT-BTC ngày 17 tháng\n9 năm 2021 của Bộ trưởng Bộ Tài chính)\n| STT | Tên Phụ lục | Nội dung |\n| 1 | Phụ lục\nI.A | Mã hóa đơn, biên lai của Cục Thuế\ncác tỉnh, thành phố và Cục Thuế doanh nghiệp lớn phát hành |\n| 2 | Phụ lục I.B | Mẫu ký\nhiệu ghi trên biên lai |\n| 3 | Phụ lục I.C | Mẫu\nbiên lai thu thuế, phí, lệ phí của cơ quan thuế sử dụng khi thu thuế, phí, lệ\nphí của cá nhân |"
+        },
+        {
+            "type": "appendix",
+            "title": "PHỤ LỤC I.A",
+            "content": "MÃ HÓA\nĐƠN, BIÊN LAI CỦA CỤC THUẾ CÁC TỈNH, THÀNH PHỐ VÀ CỤC THUẾ DOANH NGHIỆP LỚN\nPHÁT HÀNH\n(Ban hành kèm theo Thông tư số 78/2021/TT-BTC ngày 17\ntháng 9 năm\n2021 của Bộ trưởng Bộ Tài chính)\n| Mã | Tỉnh, thành\nphố | Mã | Tỉnh, thành\nphố |\n| 01 | Hà Nội | 3 4 | Bình Thuận |\n| 02 | Hải Phòng | 3 5 | Vũng Tàu |\n| 03 | Hồ Chí Minh | 3 6 | Đồng Nai |\n| 04 | Đà Nẵng | 37 | Bình Dương |\n| 06 | Nam Định | 38 | Bình Phước |\n| 07 | Hà Nam | 39 | Tây Ninh |\n| 08 | Hải Dương | 40 | Quảng Nam |\n| 09 | Hưng Yên | 41 | Bình Định |\n| 10 | Thái Bình | 42 | Khánh Hòa |\n| 11 | Long An | 43 | Quảng Ngãi |\n| 12 | Tiền Giang | 44 | Phú Yên |\n| 13 | Bến Tre | 45 | Ninh Thuận |\n| 14 | Đồng Tháp | 46 | Thái Nguyên |\n| 15 | Vĩnh Long | 47 | Bắc Kạn |\n| 16 | An Giang | 48 | Cao Bằng |\n| 17 | Kiên Giang | 49 | Lạng Sơn |\n| 18 | Cần Thơ | 50 | Tuyên Quang |\n| 19 | Bạc Liêu | 51 | Hà Giang |\n| 20 | Cà Mau | 52 | Yên Bái |\n| 21 | Trà Vinh | 53 | Lào Cai |\n| 22 | Sóc Trăng | 54 | Hòa Bình |\n| 23 | Bắc Ninh | 55 | Sơn La |\n| 24 | Bắc Giang | 56 | Điện Biên |\n| 25 | Vĩnh Phúc | 57 | Quảng Ninh |\n| 26 | Phú Thọ | 58 | Lâm Đồng |\n| 27 | Ninh Bình | 59 | Gia Lai |\n| 28 | Thanh Hóa | 60 | Đắk Lắk |\n| 29 | Nghệ An | 61 | Kon Tum |\n| 30 | Hà Tĩnh | 62 | Lai Châu |\n| 31 | Quảng Bình | 63 | Hậu Giang |\n| 32 | Quảng Trị | 64 | Đắk Nông |\n| 33 | Thừa Thiên - Huế | 65 | Cục Thuế Doanh nghiệp lớn |"
+        },
+        {
+            "type": "appendix",
+            "title": "PHỤ LỤC I.B",
+            "content": "MẪU KÝ HIỆU GHI TRÊN\nBIÊN LAI\n(Ban hành kèm theo Thông tư số 78/2021/TT-BTC ngày\n17 tháng 9 năm 2021 của Bộ trưởng Bộ Tài chính)\n1. Ký hiệu mẫu\nbiên lai có 10 ký tự, gồm:\n●\n02 ký tự đầu thể hiện loại biên lai (01 là ký hiệu biên lai thu phí, lệ phí\nkhông có mệnh giá; 02 là ký hiệu biên lai thu phí, lệ phí có mệnh giá.)\n●\n03 ký tự tiếp theo thể hiện tên biên lai (“BLP”).\n●\n01 ký tự tiếp theo thể hiện số liên biên lai. Ví dụ: biên lai có\n03 liên ký hiệu là “3”.\n●\n01 ký tự tiếp theo (dấu “-”) phân cách giữa nhóm ký tự đầu với nhóm 03 ký tự cuối\ncủa ký hiệu mẫu biên lai.\n●\n03 ký tự cuối là số thứ tự của mẫu trong một loại biên lai.\nVí dụ: Ký\nhiệu 01BLP2-001 được hiểu là: biên lai thu phí, lệ phí (loại không in sẵn mệnh\ngiá), 02 liên, mẫu thứ 1.\n2. Ký hiệu biên\nlai gồm 08 ký tự:\n●\n02 ký tự đầu là mã tỉnh, thành phố trực thuộc Trung ương theo hướng dẫn tại Phụ\nlục I.A và chỉ áp dụng đối với biên lai do Cục Thuế các tỉnh, thành phố trực\nthuộc Trung ương đặt in để bán cho các cơ quan thu phí, lệ phí.\n●\n02 ký tự tiếp theo là nhóm hai trong 20 chữ cái in hoa của bảng chữ cái tiếng\nViệt bao gồm: A, B, C, D, E, G, H, K, L, M, N, P, Q, R, S, T, U, V, X, Y dùng để\nphân biệt các ký hiệu biên lai. Đối với biên lai do cơ quan thu phí, lệ phí đặt\nin, tự in thì 02 ký tự này là 02 ký tự đầu của ký hiệu biên lai.\n●\n01 ký tự tiếp theo (dấu “-”) phân cách giữa các ký tự đầu với ba ký tự cuối của\nbiên lai.\n●\n02 ký tự tiếp theo thể hiện năm in biên lai. Ví dụ: biên lai in năm 2022 thì\nghi là 22.\n●\n01 ký tự cuối cùng thể hiện hình thức biên lai. Cụ thể: biên lai thu phí, lệ\nphí tự in ký hiệu là T; biên lai đặt in ký hiệu là P.\nVí dụ: Ký hiệu 01AA-22P được hiểu là\nbiên lai thu phí, lệ phí do Cục Thuế TP Hà Nội đặt in năm 2022."
+        },
+        {
+            "type": "appendix",
+            "title": "PHỤ LỤC I.C",
+            "content": "MẪU BIÊN LAI THU THUẾ, PHÍ, LỆ PHÍ CỦA CƠ QUAN THUẾ SỬ DỤNG\nKHI THU THUẾ, PHÍ, LỆ PHÍ CỦA CÁ NHÂN\n(Ban hành kèm theo Thông tư số 78/2021/TT-BTC ngày 17 tháng\n9 năm 2021 của Bộ trưởng Bộ Tài chính)\n| BỘ TÀI\nCHÍNH TỔNG CỤC THUẾ ----------- Cơ quan\nthu: ......................... | CỘNG HÒA\nXÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc --------------- BIÊN LAI\nTHU THUẾ, PHÍ, LỆ PHÍ (Liên\n1: Báo soát) | Mẫu: CTT50 (Ban hành kèm theo Thông tư số 78/2021/TT-BTC ngày 17 tháng 9 năm 2021 của\nBộ Tài chính) Ký hiệu: Số: |\n| Người nộp thuế:\n............................................................................................................................. Mã số thuế: Địa chỉ:\n........................................................................................................................................... |\n| Căn cứ thông báo nộp\nthuế của: .................................... Số: .... ngày ....\ntháng .... năm ....... Nội dung thu:\n................................. ....................................................... ....................................................... | Số thuế phải nộp\ntheo thông báo Tổng số thuế phải nộp: - Thuế GTGT:\n.................................................................... - Thuế TNCN:\n.................................................................... - Thuế TTĐB:\n..................................................................... - Thuế Tài nguyên:\n............................................................ - Phí BVMT:\n....................................................................... - Thuế BVMT:\n.................................................................... …………………………………………………………………. |\n| Số thuế nộp kỳ này: Số thuế nợ kỳ trước\n(nếu có): Tổng cộng số thuế nộp: | ........................................................................................... ........................................................................................... .............................................................................................. |\n| Số tiền bằng chữ:\n........................................................................................................................... ......................................................................................................................................................... NGƯỜI VIẾT BIÊN LAI (Ký, ghi rõ họ, tên) NGƯỜI THU TIỀN (Ký, ghi rõ họ, tên) ….,\nngày ... tháng ... năm ..…... NGƯỜI NỘP THUẾ (Ký, ghi rõ họ, tên) | NGƯỜI VIẾT BIÊN LAI (Ký, ghi rõ họ, tên) | NGƯỜI THU TIỀN (Ký, ghi rõ họ, tên) | ….,\nngày ... tháng ... năm ..…... NGƯỜI NỘP THUẾ (Ký, ghi rõ họ, tên) |\n| NGƯỜI VIẾT BIÊN LAI (Ký, ghi rõ họ, tên) | NGƯỜI THU TIỀN (Ký, ghi rõ họ, tên) | ….,\nngày ... tháng ... năm ..…... NGƯỜI NỘP THUẾ (Ký, ghi rõ họ, tên) |\n|  |  |  |  |\nChú ý:\n- Liên 1: Báo soát\n- Liên 2: Giao người nộp thuế\n- Liên 3: Lưu\nTrường hợp Biên lai điện tử thì không cần liên."
+        },
+        {
+            "type": "appendix",
+            "title": "PHỤ LỤC II",
+            "content": "CÁC MẪU HÓA ĐƠN/BIÊN\nLAI ĐIỆN TỬ HIỂN THỊ THAM KHẢO\n(Ban hành kèm theo Thông tư số 78/2021/TT-BTC ngày 17 tháng 9 năm 2021 của Bộ trưởng Bộ Tài chính)\n| S TT | Mẫu\ntham khảo | Tên loại hóa đơn/biên lai |\n| 1 | Mẫu tham khảo số 1 | Hóa đơn bán hàng dự trữ quốc gia |\n| 2 | Mẫu tham khảo số 2 | Hóa đơn bán tài sản công |\n| 3 | Mẫu tham khảo số 3 | Hóa đơn điện tử giá trị gia tăng (dùng cho một số tổ chức,\ndoanh nghiệp đặc thù) |\n| 4 | Mẫu tham khảo số 4 | Hóa đơn điện tử giá trị gia tăng (dùng cho một số tổ chức,\ndoanh nghiệp đặc thù thu bằng ngoại tệ) |\n| 5 | Mẫu tham khảo số 5 | Phiếu xuất kho hàng gửi bán đại lý điện tử |\n| 6 | Mẫu tham khảo\nsố 6 | Hóa đơn giá trị gia tăng do Cục Thuế phát hành |\n| 7 | Mẫu tham\nkhảo số 7 | Hóa đơn bán hàng do Cục Thuế phát hành |\nMẫu tham khảo số 1\n| TÊN ĐƠN VỊ DỰ TRỮ: ........................................................................ HÓA ĐƠN BÁN HÀNG DỰ TRỮ QUỐC GIA (Chỉ sử\ndụng cho bán hàng dự trữ quốc gia) Ngày.......tháng\n.....năm .... | Ký hiệu:… .......... . Số… .......... ........... |\n| Đơn vị bán hàng:  ............................................................................................................ Địa chỉ:\n............................................................................................................................. Số tài khoản: ..................................................................................................................... Điện thoại:\n.................................... MST: |\n| Tên người mua hàng:\n....................................................................................................................... Số CMND/CCCD/ Hộ\nchiếu:\n.............................................................................................................. Đơn vị:\n................................................................................................................................................ Địa chỉ\n................................................................................................................................................ Số tài khoản\n....................................................................... tại\nngân hàng: ....................................... Hình thức thanh\ntoán: .................................... MST: |\n| Số TT | Tên hàng\nhóa | Đơn vị\ntính | Số lượng | Đơn giá | Thành tiền |\n| a | b | c | 1 | 2 | 3 = 1x2 |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n| Cộng tiền bán hàng:\n................................................................................................................................ Số tiền viết bằng\nchữ:.............................................................................................................................. ………………………….............................................................................................................................. |\n| NGƯỜI MUA HÀNG (Chữ ký\nsố (nếu có)) | THỦ TRƯỞNG\nĐƠN VỊ (Chữ ký\nđiện tử, c hữ\nký số) |\n|  |  |  |  |  |  |  |\nMẫu tham khảo số 2\n| HÓA ĐƠN BÁN TÀI SẢN CÔNG Ngày...\ntháng …. năm ……… | Ký hiệu:\n............................ Số:\n.................................... |\n| Đơn vị bán tài sản\nNhà nước: .............................................................................................. Địa chỉ:\n........................................................................ Điện\nthoại: .................................... MST/MSĐVCQHVNS: Số tài khoản:\n.................................... tại: ........................................................................... Bán theo Quyết định số ………….ngày ….\ntháng … năm …. của: .................................... Hình thức bán: .................................................................................................................... Người mua tài sản Nhà nước: ............................................................................................... Đơn vị: ........................................................................ Số tài khoản: .................................... MST/MSĐVCQHVNS: Hình thức thanh toán: ............................................................................................................ Địa điểm vận chuyển hàng đến (*) : .......................................................................................... Thời gian vận\nchuyển (*): Từ ngày … tháng … năm … đến ngày... tháng … năm ... |\n| STT | Tên tài\nsản | Đơn vị\ntính | Số lượng | Đơn giá | Thành\ntiền |\n| (1) | (2) | (3) | (4) | (5) | (6) |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n| Cộng tiền bán tài\nsản: ............................................................................................................ Số tiền viết bằng\nchữ:\n............................................................................................................ NGƯỜI MUA HÀNG (Chữ\nký số (nếu có)) THỦ\nTRƯỞNG ĐƠN VỊ (Chữ\nký điện tử, c hữ ký số) | NGƯỜI MUA HÀNG (Chữ\nký số (nếu có)) | THỦ\nTRƯỞNG ĐƠN VỊ (Chữ\nký điện tử, c hữ ký số) |\n| NGƯỜI MUA HÀNG (Chữ\nký số (nếu có)) | THỦ\nTRƯỞNG ĐƠN VỊ (Chữ\nký điện tử, c hữ ký số) |\n| Phần gia hạn thời\ngian vận chuyển (nếu có) (*) : - Lý do gia hạn:\n............................................................................................................ - Thời gian gia hạn\nvận chuyển: Từ ngày ... tháng ... năm ... đến ngày ... tháng ... năm ... - Đơn vị gia hạn: ............................................................................................................ (Các chỉ tiêu có\ndấu (*) chỉ áp dụng đối với tài sản là hàng hóa nhập khẩu bị tịch thu) |\n|  |  |  |  |  |  |  |\nMẫu\ntham khảo số 3\n| HÓA ĐƠN GIÁ TRỊ GIA TĂNG Ngày 22 tháng 10 năm 2022 | Ký hiệu:\n1K22DAA Số:\n9852 |\n| Tên người\nbán: Công ty TNHH Bảo hiểm nhân thọ A Mã số\nthuế: Địa chỉ:\n45 phố X, quận Y, thành phố Hà Nội Điện\nthoại: ........................................................................\nSố tài khoản .................................... |\n| Tên người mua: .............................................................................................................................. Mã số\nthuế: Địa chỉ :\n............................................................................................................................................. Hình thức thanh toán: .................................... Số tài khoản : ................. Đồng tiền thanh toán: VNĐ |\n| STT | Tên hàng hóa, dịch vụ | Thành tiền |\n| 1 | 2 | 3 |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n| Thành\ntiền chưa có thuế GTGT:\n....................................................................................................... |\n| Thuế suất\ngiá trị gia tăng: ................% Tiền thuế giá trị gia tăng:\n.................................................... |\n| Tổng tiền\nthanh toán:\n............................................................................................................ Số tiền\nviết bằng chữ: ............................................................................................................ |\n| NGƯỜI MUA HÀNG (Chữ ký số (nếu có)) | NGƯỜI BÁN HÀNG (Chữ ký điện tử, Chữ ký số) |\n| (Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn) |\n|  |  |  |  |  |\nMẫu\ntham khảo số 4\n| HÓA ĐƠN GIÁ TRỊ GIA TĂNG Ngày 04 tháng 10 năm 2022 | Ký hiệu:\n1K22DAA Số: 6830 |\n| Tên người\nbán: ........................................................................................................................... Mã số\nthuế: Địa chỉ:\n..................................................................................................................................... Điện\nthoại:\n........................................................................ Số\ntài khoản .................................... |\n| Tên người mua: ....................................................................................................................... Mã số\nthuế: Địa chỉ :\n..................................................................................................................................... Hình thức thanh toán: .................................... Số tài khoản : ................. Đồng tiền thanh toán USD |\n| STT | Tên hàng hóa, dịch vụ | Đơn vị tính | Số lượng | Đơn giá | Thuế suất | Thành tiền chưa có thuế GTGT | Tiền thuế GTGT | Thành tiền có thuế GTGT | Tỷ giá (USD/VND) |\n| 1 | 2 | 3 | 4 | 5 | 6 | 7 = 4x6 | 8 = 6x7 | 9 = 7+8 | 10 |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |  |  |  |\n| Tổng tiền\nchưa có thuế GTGT:\n....................................................................................................... |\n| Tổng số\ntiền thuế giá trị gia tăng theo từng loại thuế suất:\n................................................... |\n| Tổng tiền\nthanh toán đã có thuế GTGT: ............................................................................... Số tiền\nviết bằng chữ:\n............................................................................................................ |\n| NGƯỜI MUA HÀNG (Chữ ký số (nếu có)) | NGƯỜI BÁN HÀNG (Chữ ký điện tử, Chữ ký số) |\n| (Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn) |\n|  |  |  |  |  |  |  |  |  |  |  |  |\nMẫu\ntham khảo số 5\n| Tên tổ chức, cá\nnhân: ..... ............................... ..... ........................................ | Ký hiệu:\n.............. |\n| Địa chỉ: ..... ............................... ..... ............................... ..... .............................. | Số:\n....................... |\n| Mã số thuế: ..... ............................... ..... ............................... ..... ...................... |  |\nPHIẾU XUẤT KHO HÀNG GỬI BÁN ĐẠI LÝ\nNgày ...\ntháng ... năm ..…...\nCăn cứ hợp đồng kinh tế số:\n.................................... ngày ........ tháng ........ năm\n...........\ncủa\n.................................... với (tổ chức, cá nhân) ..............\nMST:  ....................................\nHọ tên người vận chuyển:\n.................................... Hợp đồng số:\n........................................\nPhương tiện vận chuyển:\n.....................................................................................................\nXuất tại kho:\n..........................................................................................................................\nNhập tại kho:\n.........................................................................................................................\n| STT | Tên nhãn\nhiệu, quy cách, phẩm chất vật tư (sản phẩm, hàng hóa) | Mã số | Đơn vị\ntính | Số lượng | Đơn giá | Thành\ntiền |\n|  |  |  |  |  |  |  |\n|  |  |  |  |  |  |  |\n|  | Tổng cộng:\n............................................................................................................ |\n|  | THỦ TRƯỞNG\nĐƠN VỊ (Chữ\nký số) |\n(Cần kiểm\ntra, đối chiếu khi lập, giao, nhận Phiếu xuất kho)\nMẫu tham\nkhảo số 6\n| TÊN CỤC THUẾ:\n........................................................................ HÓA ĐƠN GIÁ TRỊ GIA TĂNG Liên 1:\nLưu Ngày ........\ntháng ........ năm 20....... | Mẫu số: 01GTKT3/001 Ký hiệu: 01AA/22P Số: 0000001 |\n| Tên người\nbán:\n........................................................................................................................... Mã số\nthuế: Địa chỉ:\n..................................................................................................................................... Điện\nthoại:\n........................................................................ Số\ntài khoản .................................... |\n| Tên người mua: .............................................................................................................................. Mã số\nthuế: Địa chỉ :\n............................................................................................................................................. Số tài khoản :\n.................................................................................................................................... |\n| STT | Tên hàng hóa, dịch vụ | Đơn vị tính | Số lượng | Đơn giá | Thành tiền |\n| 1 | 2 | 3 | 4 | 5 | 6=4x5 |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n| Cộng tiền\nhàng:\n............................................................................................................ |\n| Thuế suất\nGTGT: ....................% Tiền thuế GTGT:\n...................................................... |\n| Tổng cộng tiền\nthanh toán:\n............................................................................................................ Số tiền viết bằng\nchữ:\n............................................................................................................ |\n| NGƯỜI MUA HÀNG (Ký, ghi rõ họ, tên) | NGƯỜI BÁN HÀNG (Ký, đóng dấu, ghi rõ họ, tên) |\n| (Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn) |\n|  |  |  |  |  |  |  |  |\nGhi chú:\n- Liên 1: Lưu\n- Liên 2: Giao người mua\n- Liên 3: Nội bộ\nMẫu tham\nkhảo số 7\n| TÊN CỤC THUẾ: HÓA ĐƠN BÁN HÀNG Liên 1:\nLưu Ngày\n........ tháng ........ năm ........... | Mẫu số: 02GTTT3/001 Ký hiệu: 03AA/23P Số: 0000001 |\n| Tên người\nbán:\n........................................................................................................................... Mã số\nthuế: Địa chỉ:\n..................................................................................................................................... Điện\nthoại:\n........................................................................ Số\ntài khoản .................................... |\n| Tên người mua: ......................................................................................................................... Mã số\nthuế: Địa chỉ : ....................................................................................................................................... Số tài khoản :\n.............................................................................................................................. |\n| STT | Tên hàng hóa, dịch vụ | Đơn vị tính | Số lượng | Đơn giá | Thành tiền |\n| 1 | 2 | 3 | 4 | 5 | 6=4x5 |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n|  |  |  |  |  |  |\n| Cộng tiền\nbán hàng hóa, dịch vụ:\n....................................................................................................... |\n| Số tiền viết bằng\nchữ: .......................................................................................................................... |\n| NGƯỜI MUA HÀNG (Ký, ghi rõ họ, tên) | NGƯỜI BÁN HÀNG (Ký, đóng dấu, ghi rõ họ, tên) |\n| (Cần kiểm tra, đối chiếu khi lập, giao, nhận hóa đơn) |\n|  |  |  |  |  |  |  |  |\n(In tại Công ty in.........., Mã số\nthuế.................)\nGhi chú:\n- Liên 1: Lưu\n- Liên 2: Giao người mua\n- Liên 3: Nội bộ"
+        }
+    ]
+}

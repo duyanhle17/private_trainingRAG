@@ -1,0 +1,203 @@
+{
+  "meta": {
+    "name": "retrieval_only_queries",
+    "created_at": "2026-01-24T13:48:24.378714",
+    "doc_registry": {
+      "QLT": {
+        "filename": "Luật_quản_lý_thuế_2019_số_382019QH14_áp_dụng_năm_2025.json"
+      },
+      "VAT": {
+        "filename": "Luật_thuế_giá_trị_gia_tăng_2008_số_132008QH12_áp_dụng_2024.json"
+      },
+      "ND123": {
+        "filename": "Nghị_định_1232020NĐ-CP_quy_định_hóa_đơn_chứng_từ.json"
+      },
+      "ND125": {
+        "filename": "Nghị_định_1252020NĐ-CP_xử_phạt_vi_phạm_hành_chính_về_thuế_hóa_đơn.json"
+      },
+      "TT78": {
+        "filename": "Thông_tư_782021TT-BTC_hướng_dẫn_Luật_Quản_lý_thuế_Nghị_định_1232020NĐ-CP_hóa_đơn_chứng_từ.json"
+      },
+      "TT80": {
+        "filename": "Thông_tư_802021TT-BTC_hướng_dẫn_Luật_Quản_lý_thuế__Nghị_định_1262020NĐ-CP.json"
+      }
+    },
+    "schema": {
+      "queries": [
+        {
+          "id": "Qxx",
+          "query": "string",
+          "bucket": "A|B",
+          "k_eval": [
+            5,
+            10
+          ],
+          "notes": "optional"
+        }
+      ]
+    },
+    "notes": "Bucket A: single-hop; Bucket B: multi-hop (needs multiple chunks)."
+  },
+  "queries": [
+    {
+      "id": "Q01",
+      "query": "Thuế giá trị gia tăng (GTGT) được định nghĩa như thế nào?",
+      "bucket": "A",
+      "k_eval": [
+        5,
+        10
+      ],
+      "notes": null
+    },
+    {
+      "id": "Q02",
+      "query": "Đối tượng chịu thuế GTGT là gì (nguyên tắc chung)?",
+      "bucket": "A",
+      "k_eval": [
+        5,
+        10
+      ],
+      "notes": null
+    },
+    {
+      "id": "Q03",
+      "query": "Nêu ví dụ về đối tượng không chịu thuế GTGT: sản phẩm trồng trọt/chăn nuôi/thủy sản chưa chế biến hoặc sơ chế thông thường (nằm ở đâu)?",
+      "bucket": "A",
+      "k_eval": [
+        5,
+        10
+      ],
+      "notes": null
+    },
+    {
+      "id": "Q04",
+      "query": "Thời hạn nộp hồ sơ khai thuế theo tháng là khi nào?",
+      "bucket": "A",
+      "k_eval": [
+        5,
+        10
+      ],
+      "notes": null
+    },
+    {
+      "id": "Q05",
+      "query": "Thời hạn nộp hồ sơ khai thuế theo quý là khi nào?",
+      "bucket": "A",
+      "k_eval": [
+        5,
+        10
+      ],
+      "notes": null
+    },
+    {
+      "id": "Q06",
+      "query": "Đồng tiền khai thuế, nộp thuế là gì? Trường hợp hạch toán bằng ngoại tệ thì xử lý thế nào?",
+      "bucket": "B",
+      "k_eval": [
+        5,
+        10
+      ],
+      "notes": null
+    },
+    {
+      "id": "Q07",
+      "query": "Thông tư 80 quy định thời hạn nộp hồ sơ khai thuế căn cứ theo Luật/Điều nào và Nghị định nào?",
+      "bucket": "B",
+      "k_eval": [
+        5,
+        10
+      ],
+      "notes": null
+    },
+    {
+      "id": "Q08",
+      "query": "Trong TT80, mẫu tờ khai 01/GTGT nằm ở phụ lục nào và vị trí nào (danh mục mẫu biểu)?",
+      "bucket": "A",
+      "k_eval": [
+        5,
+        10
+      ],
+      "notes": null
+    },
+    {
+      "id": "Q09",
+      "query": "Theo Nghị định 123, thời điểm lập hóa đơn đối với bán hàng hóa là thời điểm nào?",
+      "bucket": "B",
+      "k_eval": [
+        5,
+        10
+      ],
+      "notes": null
+    },
+    {
+      "id": "Q10",
+      "query": "Theo Nghị định 123, thời điểm lập hóa đơn đối với cung cấp dịch vụ là thời điểm nào?",
+      "bucket": "A",
+      "k_eval": [
+        5,
+        10
+      ],
+      "notes": null
+    },
+    {
+      "id": "Q11",
+      "query": "Nghị định 123 quy định xử lý hóa đơn có sai sót ở điều nào?",
+      "bucket": "A",
+      "k_eval": [
+        5,
+        10
+      ],
+      "notes": null
+    },
+    {
+      "id": "Q12",
+      "query": "Thông tư 78 hướng dẫn xử lý hóa đơn điện tử có sai sót trong trường hợp nào và dẫn chiếu đến điều nào của Nghị định 123?",
+      "bucket": "B",
+      "k_eval": [
+        5,
+        10
+      ],
+      "notes": null
+    },
+    {
+      "id": "Q13",
+      "query": "Theo Nghị định 125, nộp hồ sơ khai thuế quá hạn từ 01 đến 30 ngày bị phạt thế nào?",
+      "bucket": "B",
+      "k_eval": [
+        5,
+        10
+      ],
+      "notes": null
+    },
+    {
+      "id": "Q14",
+      "query": "Theo Nghị định 125, nộp hồ sơ khai thuế quá hạn từ 31 đến 60 ngày bị phạt thế nào?",
+      "bucket": "A",
+      "k_eval": [
+        5,
+        10
+      ],
+      "notes": null
+    },
+    {
+      "id": "Q15",
+      "query": "Theo Nghị định 125, nộp hồ sơ khai thuế quá hạn từ 61 đến 90 ngày bị phạt thế nào?",
+      "bucket": "B",
+      "k_eval": [
+        5,
+        10
+      ],
+      "notes": null
+    },
+    {
+      "id": "Q16",
+      "query": "Nghị định 125 có dẫn chiếu đến Luật Quản lý thuế khi nói về biên bản hành vi chậm nộp hồ sơ khai thuế. Dẫn chiếu đó nằm ở đâu (NĐ125 & Luật QLT)?",
+      "bucket": "B",
+      "k_eval": [
+        5,
+        10
+      ],
+      "notes": null
+    }
+  ]
+}
